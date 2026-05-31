@@ -1,0 +1,2170 @@
+# Spanish vocabulary list — CEFR A1 → C2 plus thematic packs.
+# The pipeline auto-progresses one level every DAYS_PER_LEVEL days
+# (see config.py). Only words in the CURRENT active level are picked.
+#
+# Format: lines beginning with "# === LEVEL: <code> ===" mark the start
+# of a level section. Other "#" lines and blank lines are ignored.
+# Each level holds ~200 entries so a 50-day window (4 videos/day = 200
+# slots) plays with zero forced repeats. Total budget ~2,200 words =
+# ~1.5 years of fresh content before any loop.
+
+# === LEVEL: A1 ===
+# Absolute beginner — first words a learner picks up.
+# Greetings, family, body, numbers, colors, days, basic verbs, food, home.
+
+# -- greetings & courtesy
+hola
+adiós
+gracias
+perdón
+sí
+no
+señor
+señora
+buenos días
+buenas tardes
+buenas noches
+hasta luego
+de nada
+por favor
+
+# -- question words
+qué
+quién
+dónde
+cuándo
+cómo
+cuánto
+cuál
+por qué
+
+# -- people
+persona
+hombre
+mujer
+niño
+niña
+bebé
+amigo
+amiga
+
+# -- family
+madre
+padre
+hermano
+hermana
+hijo
+hija
+abuelo
+abuela
+tío
+tía
+primo
+prima
+esposo
+esposa
+familia
+
+# -- body
+cabeza
+cara
+ojo
+nariz
+boca
+oreja
+mano
+pie
+brazo
+pierna
+dedo
+pelo
+cuerpo
+corazón
+diente
+cuello
+espalda
+rodilla
+codo
+hombro
+
+# -- numbers
+uno
+dos
+tres
+cuatro
+cinco
+seis
+siete
+ocho
+nueve
+diez
+once
+doce
+quince
+veinte
+treinta
+cien
+mil
+
+# -- colors
+rojo
+azul
+verde
+amarillo
+blanco
+negro
+naranja
+gris
+morado
+marrón
+
+# -- time
+hoy
+mañana
+ayer
+día
+noche
+semana
+mes
+año
+hora
+minuto
+lunes
+martes
+miércoles
+jueves
+viernes
+sábado
+domingo
+
+# -- food & drink (basics)
+agua
+pan
+leche
+queso
+café
+té
+jugo
+fruta
+manzana
+plátano
+sopa
+arroz
+pollo
+carne
+pescado
+huevo
+sal
+azúcar
+galleta
+mantequilla
+miel
+
+# -- home
+casa
+puerta
+ventana
+mesa
+silla
+cama
+cocina
+baño
+sala
+libro
+llave
+teléfono
+lámpara
+jabón
+toalla
+espejo
+ducha
+
+# -- animals
+perro
+gato
+pájaro
+pez
+caballo
+vaca
+oveja
+conejo
+ratón
+abeja
+
+# -- basic adjectives
+grande
+pequeño
+bueno
+malo
+nuevo
+viejo
+alto
+bajo
+feliz
+triste
+bonito
+feo
+frío
+caliente
+largo
+corto
+lleno
+vacío
+abierto
+cerrado
+
+# -- quantities
+mucho
+poco
+todo
+nada
+algo
+más
+menos
+
+# -- basic verbs
+ser
+estar
+tener
+ir
+venir
+hacer
+ver
+hablar
+comer
+beber
+dormir
+vivir
+querer
+gustar
+poder
+decir
+dar
+saber
+leer
+escribir
+entrar
+salir
+abrir
+cerrar
+llamar
+esperar
+llegar
+mirar
+oír
+cocinar
+lavar
+
+# === LEVEL: A2 ===
+# Elementary conversational — slightly broader everyday vocabulary.
+# School, work, weather, clothing, transport, feelings, hobbies.
+
+# -- school & work
+escuela
+maestro
+estudiante
+clase
+tarea
+trabajo
+empresa
+oficina
+jefe
+dinero
+banco
+mercado
+tienda
+examen
+nota
+lección
+lápiz
+cuaderno
+mochila
+regla
+diccionario
+pizarra
+borrador
+escritorio
+
+# -- transport & places
+coche
+tren
+autobús
+avión
+bicicleta
+estación
+aeropuerto
+hospital
+parque
+ciudad
+país
+calle
+camino
+hotel
+restaurante
+barco
+motocicleta
+taxi
+metro
+puerto
+gasolinera
+farmacia
+supermercado
+iglesia
+museo
+biblioteca
+plaza
+centro
+
+# -- clothing
+camisa
+pantalón
+zapato
+sombrero
+vestido
+chaqueta
+ropa
+bolsa
+calcetín
+blusa
+falda
+abrigo
+bufanda
+guante
+cinturón
+gorra
+traje
+corbata
+sudadera
+pijama
+
+# -- weather & nature
+sol
+luna
+estrella
+nube
+lluvia
+nieve
+viento
+clima
+montaña
+mar
+río
+cielo
+playa
+bosque
+flor
+árbol
+hoja
+piedra
+arena
+isla
+
+# -- seasons
+primavera
+verano
+otoño
+invierno
+
+# -- food & drink (broader)
+verdura
+desayuno
+almuerzo
+cena
+postre
+helado
+chocolate
+sándwich
+ensalada
+salsa
+tortilla
+taco
+papa
+tomate
+cebolla
+ajo
+frijol
+maíz
+arroz integral
+limón
+piña
+mango
+sandía
+queso fresco
+yogur
+mermelada
+pasta
+
+# -- common verbs
+comprar
+vender
+pagar
+viajar
+caminar
+correr
+nadar
+bailar
+cantar
+jugar
+estudiar
+trabajar
+ayudar
+buscar
+encontrar
+empezar
+terminar
+comprender
+enseñar
+aprender
+pensar
+recordar
+olvidar
+necesitar
+preferir
+gritar
+sonreír
+abrazar
+besar
+saltar
+volver
+sentarse
+levantarse
+ducharse
+vestirse
+desayunar
+almorzar
+cenar
+
+# -- adjectives
+caro
+barato
+fácil
+difícil
+rápido
+lento
+limpio
+sucio
+fuerte
+débil
+joven
+amable
+cansado
+ocupado
+divertido
+aburrido
+ruidoso
+silencioso
+brillante
+oscuro
+delgado
+gordo
+moderno
+antiguo
+
+# -- feelings (basic)
+contento
+enojado
+preocupado
+sorprendido
+asustado
+nervioso
+tímido
+valiente
+generoso
+egoísta
+paciente
+
+# -- directions & frequency
+izquierda
+derecha
+recto
+arriba
+abajo
+cerca
+lejos
+dentro
+fuera
+siempre
+nunca
+a veces
+temprano
+
+# === LEVEL: B1 ===
+# Intermediate — broader topics, abstract ideas, opinions, planning.
+
+# -- abstract & social
+sociedad
+cultura
+historia
+ciencia
+tecnología
+información
+noticia
+problema
+solución
+opinión
+razón
+manera
+idea
+pregunta
+respuesta
+ejemplo
+detalle
+diferencia
+cambio
+efecto
+resultado
+causa
+experiencia
+sueño
+recuerdo
+imaginación
+comunidad
+vecindario
+barrio
+multitud
+organización
+asociación
+
+# -- character & emotion
+costumbre
+carácter
+actitud
+expresión
+sonrisa
+lágrima
+emoción
+agradecimiento
+preocupación
+tranquilidad
+miedo
+orgullo
+vergüenza
+celos
+esperanza
+ansiedad
+alivio
+decepción
+frustración
+satisfacción
+indiferencia
+simpatía
+antipatía
+compasión
+envidia
+
+# -- relationships & actions
+amor
+amistad
+pareja
+boda
+cita
+beso
+abrazo
+discutir
+perdonar
+prometer
+mentir
+confiar
+dudar
+comparar
+elegir
+decidir
+explicar
+guiar
+presentar
+contactar
+consultar
+rechazar
+agradecer
+saludar
+despedirse
+
+# -- broader verbs
+crecer
+educar
+sorprender
+alegrarse
+entristecer
+enojarse
+reír
+llorar
+elogiar
+regañar
+aumentar
+disminuir
+reunirse
+separarse
+encontrarse
+continuar
+dejar
+mejorar
+empeorar
+descubrir
+inventar
+desarrollar
+celebrar
+lograr
+alcanzar
+fracasar
+superar
+intentar
+fallar
+conseguir
+soñar
+imaginar
+arrepentirse
+acostumbrarse
+
+# -- abstract adjectives
+importante
+necesario
+posible
+imposible
+seguro
+peligroso
+útil
+inútil
+normal
+extraño
+asombroso
+obvio
+profundo
+ligero
+pesado
+amargo
+dulce
+picante
+salado
+delicioso
+
+# -- communication & opportunity
+conversación
+debate
+charla
+entrevista
+mensaje
+anuncio
+oportunidad
+suerte
+destino
+casualidad
+coincidencia
+
+# -- time abstract
+pasado
+presente
+futuro
+momento
+instante
+época
+era
+década
+siglo
+
+# -- money basic
+ahorrar
+gastar
+prestar
+deber
+ganar
+perder
+regalar
+
+# -- travel & culture
+viaje
+turismo
+desierto
+volcán
+ruina
+pirámide
+fiesta
+tradición
+mariachi
+tequila
+guacamole
+artesanía
+folklore
+itinerario
+mapa
+brújula
+equipaje
+maleta
+pasaporte
+visa
+frontera
+aduana
+
+# === LEVEL: B2 ===
+# Upper-intermediate — abstract reasoning, society, current affairs.
+
+# -- society & politics
+gobierno
+política
+democracia
+libertad
+igualdad
+derecho
+responsabilidad
+justicia
+ley
+ciudadanía
+elección
+voto
+manifestación
+huelga
+desigualdad
+pobreza
+riqueza
+clase social
+poder político
+corrupción
+transparencia
+censura
+propaganda
+manipulación
+populismo
+privilegio
+marginación
+asimilación
+
+# -- work & money
+empleo
+desempleo
+contrato
+sueldo
+impuesto
+inversión
+préstamo
+ahorro
+gasto
+ganancia
+pérdida
+deuda
+crisis
+competencia
+negociación
+acuerdo
+oferta
+demanda
+inflación
+recesión
+especulación
+monopolio
+capital
+fondo
+presupuesto
+
+# -- environment
+contaminación
+reciclaje
+calentamiento
+biodiversidad
+especie
+extinción
+deforestación
+energía
+sostenibilidad
+recurso
+desastre
+inundación
+sequía
+terremoto
+vertido
+emisión
+residuo
+ozono
+atmósfera
+hábitat
+
+# -- science & technology
+investigación
+descubrimiento
+invento
+progreso
+innovación
+software
+hardware
+red
+internet
+inteligencia
+algoritmo
+dato
+seguridad
+privacidad
+hipótesis
+teoría
+fórmula
+ecuación
+experimento
+laboratorio
+diagnóstico
+tratamiento
+cirugía
+prevención
+síntoma
+vacuna
+virus
+bacteria
+
+# -- abstract concepts
+verdad
+mentira
+secreto
+rumor
+reputación
+popularidad
+influencia
+prestigio
+autoridad
+identidad
+diversidad
+tolerancia
+prejuicio
+estereotipo
+discriminación
+integración
+exclusión
+paradoja
+contradicción
+ambigüedad
+ironía
+sarcasmo
+metáfora
+
+# -- nuanced verbs
+analizar
+investigar
+proponer
+sugerir
+considerar
+suponer
+asumir
+implicar
+demostrar
+comprobar
+verificar
+identificar
+clasificar
+distinguir
+relacionar
+contrastar
+resumir
+argumentar
+defender
+criticar
+refutar
+ilustrar
+deducir
+inducir
+generalizar
+especificar
+
+# -- psychology
+comportamiento
+pensamiento
+percepción
+conciencia
+subconsciente
+intuición
+empatía
+autoestima
+trauma
+ansiedad social
+
+# === LEVEL: C1 ===
+# Advanced — nuanced, literary, professional, idiomatic.
+
+# -- nuanced abstract
+agudeza
+índole
+matiz
+tinte
+trasfondo
+sutileza
+elocuencia
+locuacidad
+sobriedad
+discreción
+prudencia
+sensatez
+audacia
+osadía
+arrojo
+temeridad
+cautela
+recelo
+suspicacia
+desconfianza
+perspicacia
+sagacidad
+ingenio
+picardía
+hastío
+tedio
+abatimiento
+exaltación
+fervor
+pasmo
+estupor
+
+# -- formal / professional
+gestión
+estrategia
+implementación
+evaluación
+síntesis
+hipótesis avanzada
+deducción
+inferencia
+paradigma
+metodología
+enfoque
+perspectiva
+postulado
+premisa
+conclusión
+hegemonía
+supremacía
+predominio
+ascendencia
+influjo
+
+# -- literary & emotional
+melancolía
+nostalgia
+desolación
+desazón
+júbilo
+regocijo
+añoranza
+embeleso
+encanto
+deslumbramiento
+asombro
+deleite
+delicia
+plenitud
+lasitud
+euforia
+arrobamiento
+beatitud
+dicha
+ventura
+
+# -- ethics & philosophy
+ética
+virtud
+vicio
+integridad
+honradez
+hipocresía
+soberbia
+humildad
+benevolencia
+malicia
+remordimiento
+arrepentimiento
+expiación
+redención
+indolencia
+holgazanería
+dejadez
+abulia
+desidia
+rectitud
+decoro
+magnanimidad
+
+# -- governance & law
+soberanía
+jurisdicción
+legislación
+jurisprudencia
+constitucionalidad
+litigio
+controversia
+arbitraje
+mediación
+tratado
+convenio
+protocolo
+estatuto
+reglamento
+querella
+rencilla
+pendencia
+refriega
+contienda
+
+# -- expressive verbs
+deslumbrar
+embelesar
+embriagar
+acongojar
+sosegar
+apaciguar
+indignar
+sublevar
+exaltar
+desbordar
+enmendar
+subsanar
+zanjar
+deslindar
+discernir
+prodigar
+propinar
+infligir
+perpetrar
+suscitar
+propiciar
+fraguar
+urdir
+acaecer
+sobrevenir
+
+# -- style & society
+refinamiento
+distinción
+elegancia
+esnobismo
+vulgaridad
+ostentación
+verborrea
+vehemencia
+declamación
+oratoria
+idiosincrasia
+oligarquía
+plutocracia
+autocracia
+hipérbole
+oxímoron
+alegoría
+símil
+
+# === LEVEL: C2 ===
+# Mastery — rare, formal, literary, technical, archaic.
+
+# -- abstract states of mind
+ataraxia
+ecuanimidad
+sosiego
+quietismo
+desidia profunda
+vesania
+arrebato
+inopia
+abulia profunda
+hosquedad
+ensimismamiento
+abstracción
+recogimiento
+beatífica calma
+arrobo
+desazón existencial
+hastío vital
+melancólica añoranza
+saudade
+spleen
+
+# -- erudite character traits
+parsimonia
+parquedad
+mesura
+templanza
+ecuanimidad estoica
+estoicismo
+epicureísmo
+escepticismo
+hedonismo
+ascetismo
+cinismo
+nihilismo
+solipsismo
+pragmatismo
+relativismo
+dogmatismo
+escolástica
+ortodoxia
+heterodoxia
+
+# -- nuanced verbs
+zaherir
+mancillar
+escarnecer
+denostar
+vituperar
+loar
+encomiar
+ensalzar
+prorrumpir
+proferir
+inquirir
+escudriñar
+otear
+columbrar
+discernir agudo
+sosegar el ánimo
+trasegar
+ajar
+desmedrar
+languidecer
+fenecer
+agostar
+mustiarse
+acendrarse
+prevaricar
+fenecer un acuerdo
+
+# -- literary devices & rhetoric
+sinécdoque
+metonimia
+antonomasia
+prosopopeya
+hipérbaton
+quiasmo
+anáfora
+epífora
+polisíndeton
+asíndeton
+elipsis estilística
+pleonasmo
+litotes
+sinestesia
+oxímoron literario
+paronomasia
+aliteración
+onomatopeya
+catacresis
+zeugma
+
+# -- highly formal abstract
+inmanencia
+trascendencia
+ontología
+epistemología
+axiología
+deontología
+hermenéutica
+fenomenología
+dialéctica
+metafísica
+gnoseología
+escatología
+soteriología
+patrística
+exégesis
+glosa
+apócrifo
+hagiografía
+heresiología
+silogismo
+
+# -- archaic / formal nouns
+empíreo
+arcano
+prístino
+pretérito
+sempiterno
+augur
+hierofante
+nigromante
+taumaturgo
+demiurgo
+oráculo
+vate
+juglar
+trovador
+rapsoda
+escolio
+fárrago
+cenáculo
+pléyade
+cohorte
+
+# -- nuanced negative concepts
+prevaricación
+peculado
+malversación
+latrocinio
+felonía
+proditorio
+infamia
+oprobio
+ignominia
+estigma
+deshonra
+estulticia
+necedad
+sandez
+patraña
+falacia
+sofisma
+embaucamiento
+ardid
+trapacería
+
+# -- nuanced positive concepts
+sapiencia
+clarividencia
+lucidez
+discernimiento
+ponderación
+gallardía
+hidalguía
+caballerosidad
+nobleza de espíritu
+fortaleza moral
+magnanimidad ejemplar
+abnegación
+filantropía
+mecenazgo
+prosapia
+linaje
+estirpe
+heredad
+abolengo
+
+# -- complex emotional/abstract verbs
+conmoverse
+sobrecogerse
+estremecerse
+acongojarse
+amilanarse
+arredrar
+amedrentar
+intimidar
+acoquinar
+abroquelarse
+parapetarse
+encastillarse
+zaherirse
+mortificarse
+flagelarse
+ensimismarse
+abstraerse
+ofuscarse
+turbarse
+azorarse
+
+# === LEVEL: THEME-COCINA ===
+# Cocina y comida — cooking, ingredients, techniques, dishes, drinks.
+
+# -- pantry & ingredients
+harina
+levadura
+aceite
+vinagre
+mostaza
+mayonesa
+catsup
+especia
+hierba
+perejil
+cilantro
+orégano
+albahaca
+romero
+tomillo
+comino
+canela
+clavo
+nuez moscada
+jengibre
+pimienta
+caldo
+consomé
+salsa de soya
+salsa picante
+
+# -- vegetables
+lechuga
+espinaca
+repollo
+brócoli
+coliflor
+espárrago
+alcachofa
+pepino
+pimiento
+chile
+jalapeño
+habanero
+chipotle
+zanahoria
+betabel
+calabaza
+calabacín
+nopal
+champiñón
+puerro
+apio
+elote
+chayote
+
+# -- fruits
+guayaba
+melón
+uva
+pera
+durazno
+ciruela
+cereza
+frambuesa
+fresa
+mora
+kiwi
+coco
+lima
+toronja
+mandarina
+papaya
+maracuyá
+tuna
+zapote
+mamey
+
+# -- meats & seafood
+res
+cerdo
+pavo
+cordero
+ternera
+jamón
+chorizo
+tocino
+longaniza
+salchicha
+camarón
+langosta
+ostra
+mejillón
+almeja
+calamar
+pulpo
+atún
+salmón
+trucha
+bacalao
+sardina
+
+# -- techniques
+hervir
+freír
+asar
+hornear
+cocer
+guisar
+picar
+cortar
+rebanar
+pelar
+rallar
+mezclar
+batir
+amasar
+marinar
+sazonar
+espolvorear
+rellenar
+deshuesar
+derretir
+dorar
+gratinar
+flamear
+ahumar
+escalfar
+saltear
+
+# -- dishes
+pozole
+mole
+tamal
+enchilada
+chilaquiles
+quesadilla
+gordita
+sope
+huarache
+tlayuda
+cochinita
+birria
+menudo
+ceviche
+aguachile
+tostada
+flauta
+empanada
+tamal de elote
+torta ahogada
+mixiote
+barbacoa
+carnitas
+chiles en nogada
+champurrado
+
+# -- bakery & sweets
+pastel
+flan
+churro
+buñuelo
+tres leches
+arroz con leche
+gelatina
+paleta
+dulce de leche
+cajeta
+mazapán
+piloncillo
+camote enmielado
+ate
+jalea
+
+# -- drinks
+atole
+horchata
+agua fresca
+jamaica
+tamarindo
+mezcal
+pulque
+michelada
+refresco
+chocolate caliente
+licuado
+ponche
+sangría
+
+# -- kitchen tools
+sartén
+cazuela
+olla
+comal
+molcajete
+metate
+licuadora
+batidora
+exprimidor
+colador
+cucharón
+espumadera
+abrelatas
+sacacorchos
+rallador
+mortero
+
+# === LEVEL: THEME-VIAJES ===
+# Viajes y lugares — travel, transport, accommodation, sightseeing.
+
+# -- transport extra
+vuelo
+aerolínea
+escala
+conexión
+embarque
+aterrizaje
+despegue
+turbulencia
+azafata
+piloto
+tripulación
+asiento de ventana
+asiento de pasillo
+pase de abordar
+maleta de mano
+equipaje documentado
+mostrador
+control de seguridad
+
+# -- accommodation
+hostal
+albergue
+posada
+cabaña
+suite
+habitación
+recepción
+conserje
+ascensor
+escalera
+vestíbulo
+terraza
+balcón
+vista al mar
+piscina
+spa
+gimnasio
+desayuno incluido
+servicio a la habitación
+caja fuerte
+
+# -- sightseeing places
+catedral
+palacio
+monumento
+estatua
+fuente
+puente
+túnel
+autopista
+carretera
+malecón
+muelle
+faro
+mirador
+jardín botánico
+zócalo
+acueducto
+templo
+pirámide maya
+sitio arqueológico
+zona arqueológica
+
+# -- nature destinations
+península
+bahía
+golfo
+estrecho
+valle
+llanura
+meseta
+sierra
+cordillera
+cráter
+glaciar
+cascada
+arrecife
+laguna
+manglar
+selva
+jungla
+sabana
+tundra
+oasis
+duna
+acantilado
+gruta
+cenote
+
+# -- travel actions
+alquilar
+reservar
+cancelar
+embarcar
+aterrizar
+despegar
+hacer escala
+recoger equipaje
+hacer turismo
+perderse
+hospedarse
+registrarse
+desalojar
+explorar
+recorrer
+acampar
+hacer senderismo
+mochilear
+hacer puente
+hacer las maletas
+
+# -- activities
+buceo
+snorkel
+surf
+kayak
+parapente
+tirolesa
+ciclismo
+montañismo
+escalada
+rafting
+pesca deportiva
+observación de aves
+safari
+crucero
+excursión guiada
+recorrido a pie
+tour gastronómico
+
+# -- documents & logistics
+boleto
+billete
+itinerario detallado
+agencia de viajes
+seguro de viaje
+moneda local
+tipo de cambio
+propina
+souvenir
+recuerdo de viaje
+mapa turístico
+guía local
+intérprete
+visado
+permiso de conducir internacional
+
+# -- climate & seasonal
+temporada alta
+temporada baja
+clima tropical
+clima árido
+estación lluviosa
+estación seca
+huracán
+tormenta tropical
+ola de calor
+ola de frío
+nevada
+
+# -- regional flavor
+hacienda
+cantina
+mercado de artesanías
+tianguis
+fonda
+puesto callejero
+pueblo mágico
+
+# === LEVEL: THEME-NEGOCIOS ===
+# Negocios y trabajo — corporate, finance, entrepreneurship.
+
+# -- roles
+director
+ejecutivo
+supervisor
+coordinador
+líder
+fundador
+socio
+accionista
+inversor
+consultor
+asesor
+mentor
+aprendiz
+becario
+freelance
+autónomo
+emprendedor
+cofundador
+gerente general
+director financiero
+director comercial
+director de marketing
+director de operaciones
+recursos humanos
+
+# -- concepts
+meta
+objetivo
+táctica
+indicador
+métrica
+rendimiento
+desempeño
+productividad
+eficiencia
+eficacia
+rentabilidad
+beneficio
+ingreso
+costo fijo
+costo variable
+margen
+flujo de caja
+balance
+estado financiero
+auditoría
+
+# -- documents
+factura
+recibo
+póliza
+escritura
+documento
+archivo
+carpeta
+agenda
+calendario
+acta
+minuta
+memo
+informe
+reporte
+propuesta
+presentación
+hoja de cálculo
+diagrama
+organigrama
+
+# -- verbs
+negociar
+firmar
+gestionar
+supervisar
+dirigir
+contratar
+despedir
+ascender
+capacitar
+evaluar
+delegar
+liderar
+coordinar
+planificar
+ejecutar
+implementar
+optimizar
+escalar
+externalizar
+tercerizar
+fidelizar
+prospectar
+cotizar
+licitar
+
+# -- meetings & comms
+junta
+reunión
+videollamada
+conferencia
+seminario
+taller
+capacitación
+inducción
+retroalimentación
+seguimiento
+sesión informativa
+lluvia de ideas
+mesa redonda
+panel
+ponente
+moderador
+
+# -- marketing & sales
+campaña
+publicidad
+mercadotecnia
+posicionamiento
+segmentación
+público objetivo
+embudo de ventas
+cliente potencial
+prospecto
+cierre de venta
+postventa
+fidelización
+descuento
+promoción
+liquidación
+muestrario
+catálogo
+escaparate
+vidriera
+
+# -- finance & investment
+acción
+bono
+dividendo
+cartera
+portafolio
+rendimiento financiero
+volatilidad
+riesgo
+diversificación
+liquidez
+solvencia
+apalancamiento
+hipoteca
+crédito
+tasa de interés
+tasa preferencial
+amortización
+intereses compuestos
+plan de pensiones
+fideicomiso
+
+# -- startups
+prototipo
+producto mínimo viable
+pivote
+ronda de financiación
+capital semilla
+capital de riesgo
+ángel inversor
+aceleradora
+incubadora
+escalabilidad
+valoración
+salida a bolsa
+fusión
+adquisición
+
+# === LEVEL: THEME-TECNOLOGIA ===
+# Tecnología e internet — digital, computing, social media.
+
+# -- devices
+computadora
+laptop
+tableta
+celular
+audífono
+parlante
+teclado
+monitor
+impresora
+cámara web
+micrófono
+disco duro
+memoria USB
+tarjeta de memoria
+batería externa
+cargador
+adaptador
+router
+módem
+consola
+mando
+reloj inteligente
+asistente de voz
+bocina inteligente
+
+# -- software
+aplicación
+programa
+sitio web
+navegador
+motor de búsqueda
+sistema operativo
+base de datos
+código fuente
+algoritmo de búsqueda
+interfaz
+panel de control
+configuración
+ajuste
+extensión
+complemento
+actualización
+parche
+versión
+licencia
+suscripción digital
+
+# -- digital actions
+descargar
+subir
+instalar
+desinstalar
+actualizar
+conectar
+desconectar
+iniciar sesión
+cerrar sesión
+navegar
+publicar
+compartir
+comentar
+etiquetar
+bloquear
+silenciar
+denunciar
+seguir
+suscribir
+suscribirse
+sincronizar
+respaldar
+restaurar
+formatear
+
+# -- social media
+usuario
+contraseña
+perfil
+publicación
+notificación
+seguidor
+suscriptor
+influencer
+viral
+tendencia
+hashtag
+mención
+encuesta
+transmisión en vivo
+directo
+reel
+miniatura
+biografía corta
+muro
+feed
+algoritmo de recomendación
+contenido patrocinado
+colaboración
+
+# -- security & privacy
+contraseña segura
+autenticación
+verificación en dos pasos
+huella digital
+reconocimiento facial
+cifrado
+firewall
+antivirus
+malware
+spyware
+ransomware
+phishing
+suplantación
+estafa en línea
+robo de identidad
+fuga de datos
+política de privacidad
+términos de servicio
+cookies
+permisos
+
+# -- AI & data
+inteligencia artificial
+aprendizaje automático
+red neuronal
+modelo
+entrenamiento
+conjunto de datos
+predicción
+clasificación
+visión por computadora
+procesamiento de lenguaje
+chatbot
+asistente virtual
+automatización
+big data
+analítica
+visualización
+métrica clave
+indicador clave
+panel de visualización
+
+# -- web & cloud
+servidor
+dominio
+hospedaje
+correo electrónico
+mensajería
+streaming
+descarga progresiva
+ancho de banda
+latencia
+ping
+caché
+cookie
+sesión
+token
+API
+microservicio
+contenedor
+despliegue
+
+# -- ecommerce
+carrito de compras
+pasarela de pago
+método de pago
+envío gratis
+seguimiento del pedido
+opinión del cliente
+reseña
+calificación
+estrellas
+devolución
+reembolso
+garantía
+descripción del producto
+ficha técnica
+
+# === LEVEL: THEME-CULTURA ===
+# Cultura mexicana y latina — festivities, folklore, art, music, daily life.
+
+# -- festivities
+día de muertos
+piñata
+navidad
+año nuevo
+semana santa
+quinceañera
+bautizo
+comunión
+graduación
+cumpleaños
+aniversario
+día del niño
+día de la madre
+día del padre
+día de la independencia
+grito de independencia
+día de la raza
+día de reyes
+candelaria
+carnaval
+feria
+verbena
+romería
+desfile
+
+# -- folklore
+leyenda
+mito
+fábula
+héroe
+heroína
+villano
+fantasma
+brujería
+hechicero
+curandero
+chamán
+nahual
+chaneque
+La Llorona
+El Chupacabras
+La Catrina
+diablo
+ángel guardián
+santo
+virgen
+
+# -- art & craft
+muralismo
+mural
+fresco
+escultura
+cerámica
+alfarería
+talavera
+alebrije
+papel picado
+ofrenda
+altar
+calavera de azúcar
+artesanía huichol
+textil
+bordado
+tejido
+hojalata
+plata labrada
+máscara ceremonial
+exvoto
+
+# -- music genres
+ranchera
+bolero
+cumbia
+son
+merengue
+reguetón
+banda
+norteño
+son jarocho
+mariachi clásico
+huapango
+corrido
+trova
+rumba
+flamenco
+tango
+bachata
+vallenato
+plena
+
+# -- dance
+jarabe
+vals
+zapateado
+folclórico
+quebradita
+salsero
+baile de salón
+cuadrilla
+samba
+zarzuela
+
+# -- daily expressions
+saludo
+despedida
+sobremesa
+siesta
+tertulia
+parranda
+pachanga
+reventón
+ambiente
+chisme
+piropo
+albur
+echar la flojera
+
+# -- food culture
+puesto
+mercado sobre ruedas
+taquería
+torta
+antojito
+botana
+tentempié
+agarrar antojo
+hacer hambre
+mero mero
+mole de fiesta
+
+# -- clothing & symbols
+sombrero charro
+poncho
+rebozo
+sarape
+guayabera
+huipil
+sarape de saltillo
+bandera mexicana
+escudo nacional
+águila
+serpiente
+
+# -- religion & spirituality
+catolicismo
+guadalupanismo
+virgen de guadalupe
+basílica
+peregrinación
+manda
+promesa religiosa
+limpia
+sahumerio
+copal
+rosario
+
+# -- nature & landscapes
+volcán Popocatépetl
+selva lacandona
+sierra madre
+desierto de sonora
+costa del pacífico
+golfo de méxico
+mar caribe
+sierra tarahumara
+barrancas del cobre
+
+# -- daily life words
+chela
+cuate
+güey
+neta
+chido
+naco
+chamba
+varo
+lana
+chamaco
+escuincle
+morro
+morra

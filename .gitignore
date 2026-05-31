@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+client_secret*.json
+token.json
+temp/
+output/
+*.mp4
+*.mp3
+# but DO commit anything inside music/ — those are background tracks
+!music/*.mp3
+!music/*.m4a
+!music/*.wav
+!music/*.ogg
+!music/*.aac
+.DS_Store
