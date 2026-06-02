@@ -6,10 +6,10 @@ import random
 from datetime import date, datetime, timezone
 
 from word_fetcher import fetch_word_data
-from video_builder import create_short
+from video_builder import create_short, create_long
 from image_fetcher import fetch_word_images
 from llm import enrich_word_data
-from uploader import upload_short_only
+from uploader import upload_short_only, upload_long
 from config import (TEMP_DIR, OUTPUT_DIR,
                     LEVEL_START_DATE, DAYS_PER_LEVEL, LEVEL_ORDER)
 
@@ -211,15 +211,22 @@ def run(slot: int = 0) -> None:
 
     today = date.today().isoformat()
 
-    # 4 — build Short
-    safe_name = word_data["word"].replace(" ", "_") or "word"
+    # 4a — build Short (9:16 vertical)
+    safe_name  = word_data["word"].replace(" ", "_") or "word"
     short_path = os.path.join(OUTPUT_DIR, f"{safe_name}_{today}_s{slot}_short.mp4")
     create_short(word_data, short_path, word_images=word_images)
 
-    # 5 — upload + file into the level's playlist (created lazily on
-    # first upload for each level, cached in playlists.json).
+    # 4b — build Long companion video (16:9 horizontal)
+    long_path = os.path.join(OUTPUT_DIR, f"{safe_name}_{today}_s{slot}_long.mp4")
+    create_long(word_data, long_path, word_images=word_images)
+
+    # 5a — upload Short + file into the level's playlist
     short_id = upload_short_only(short_path, word_data, level=level)
     print(f"  short  → https://youtube.com/shorts/{short_id}")
+
+    # 5b — upload Long companion (same playlist as the Short)
+    long_id = upload_long(long_path, word_data, level=level)
+    print(f"  long   → https://youtube.com/watch?v={long_id}")
 
     # 6 — append to upload history (committed back by the workflow)
     _log_upload(word_data, short_id, slot)

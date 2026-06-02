@@ -186,6 +186,45 @@ def _insert(yt, video_path: str, title: str, description: str, tags: list) -> st
     return response["id"]
 
 
+def upload_long(long_path: str, word_data: dict,
+                level: str | None = None) -> str:
+    """Upload the 16:9 companion video and file it into the same level
+    playlist as the Short. Returns the YouTube video ID."""
+    word     = word_data["word"]
+    gender   = word_data.get("gender", "")
+    defn     = word_data["definition"]
+    headline = f"{gender} {word}".strip() if gender else word
+
+    # Title: Learn 'plátano' in Spanish — banana
+    title = f"Learn '{headline}' in Spanish — {defn}"
+    # YouTube title cap is 100 chars; truncate cleanly if needed
+    if len(title) > 100:
+        title = title[:97] + "..."
+
+    base_tags   = YT_TAGS + [word, headline,
+                              f"learn {word}", f"{word} spanish",
+                              f"{word} en español", "spanish lesson",
+                              "learn spanish vocabulary"]
+    description = _build_description(word_data, level=level)
+    yt          = _get_client()
+
+    video_id = _insert(
+        yt, long_path,
+        title       = title,
+        description = description,
+        tags        = base_tags,
+    )
+
+    if level:
+        try:
+            playlist_id = _get_or_create_playlist(yt, level)
+            _add_to_playlist(yt, video_id, playlist_id)
+        except HttpError as e:
+            print(f"  [playlist] WARN: skipped categorization ({e})")
+
+    return video_id
+
+
 def upload_short_only(short_path: str, word_data: dict,
                        level: str | None = None) -> str:
     """Upload the Short and (if `level` is given) file it into that

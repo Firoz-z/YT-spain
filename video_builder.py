@@ -92,7 +92,7 @@ def _draw_wrapped(draw, text, font, color, y, w, padding=80):
 
 
 def _draw_brand(draw, w, h, color=None):
-    scale   = w / 1080
+    scale   = min(w / 1080, h / 1920)
     f_brand = _load_font("regular", int(34 * scale))
     brand_y = h - int(110 * (h / 1920))
     bbox    = f_brand.getbbox(YT_CHANNEL_NAME)
@@ -110,7 +110,7 @@ def _headline(word_data: dict) -> str:
 # ---------- frame builders ----------
 
 def _make_hook_frame(word_data: dict, w: int, h: int) -> Image.Image:
-    scale  = w / 1080
+    scale  = min(w / 1080, h / 1920)
     # Hook gets its own warmer "sunset" gradient — punchy opener that
     # makes the cooler middle scenes feel calmer by contrast.
     img    = _gradient_bg(w, h, HOOK_BG_TOP, HOOK_BG_BOTTOM)
@@ -153,7 +153,7 @@ def _make_hook_frame(word_data: dict, w: int, h: int) -> Image.Image:
 def _make_word_frame(word_data: dict, w: int, h: int,
                       bg_image: Image.Image | None = None) -> Image.Image:
     """Show the word large, with IPA + part of speech beneath."""
-    scale  = w / 1080
+    scale  = min(w / 1080, h / 1920)
     img    = _make_bg(w, h, bg_image)
     draw   = ImageDraw.Draw(img)
     _draw_brand(draw, w, h)
@@ -227,7 +227,7 @@ def _make_definition_frame(word_data: dict, w: int, h: int,
                             bg_image: Image.Image | None = None) -> Image.Image:
     """Definition scene — vertically centered in the YouTube safe zone
     (top 6% to bottom 82%; bottom 18% is reserved for YouTube's overlay UI)."""
-    scale  = w / 1080
+    scale  = min(w / 1080, h / 1920)
     img    = _make_bg(w, h, bg_image)
     draw   = ImageDraw.Draw(img)
     _draw_brand(draw, w, h)
@@ -282,7 +282,7 @@ def _make_example_frame(word_data: dict, w: int, h: int,
                          bg_image: Image.Image | None = None) -> Image.Image:
     """Example scene — vertically centered in the safe zone so the short
     doesn't feel top-heavy on a phone screen."""
-    scale  = w / 1080
+    scale  = min(w / 1080, h / 1920)
     img    = _make_bg(w, h, bg_image)
     draw   = ImageDraw.Draw(img)
     _draw_brand(draw, w, h)
@@ -340,7 +340,7 @@ def _make_synonyms_frame(word_data: dict, w: int, h: int,
                           bg_image: Image.Image | None = None) -> Image.Image:
     """Synonyms scene — vertically centered with larger type so the
     layout fills the visual frame instead of clustering at the top."""
-    scale  = w / 1080
+    scale  = min(w / 1080, h / 1920)
     img    = _make_bg(w, h, bg_image)
     draw   = ImageDraw.Draw(img)
     _draw_brand(draw, w, h)
@@ -395,7 +395,7 @@ def _make_synonyms_frame(word_data: dict, w: int, h: int,
 def _make_tip_frame(word_data: dict, tip: str, w: int, h: int,
                      bg_image: Image.Image | None = None) -> Image.Image:
     """Memory-tip scene — vertically centered within the safe zone."""
-    scale  = w / 1080
+    scale  = min(w / 1080, h / 1920)
     img    = _make_bg_clear(w, h, bg_image)
     draw   = ImageDraw.Draw(img)
     _draw_brand(draw, w, h)
@@ -732,6 +732,143 @@ def create_short(word_data: dict, output_path: str,
             os.remove(apath)
 
     # Step 1: concat all scene clips into one continuous video
+    music = _select_music_track()
+    if music:
+        pre_music = output_path + ".no_music.mp4"
+        _concat_clips(clip_paths, pre_music)
+        print(f"  [music] mixing {os.path.basename(music)}")
+        _mix_background_music(pre_music, music, output_path)
+        os.remove(pre_music)
+    else:
+        _concat_clips(clip_paths, output_path)
+
+    for p in clip_paths:
+        if os.path.exists(p):
+            os.remove(p)
+
+
+def create_long(word_data: dict, output_path: str,
+                word_images: list = None) -> None:
+    """Render a 16:9 companion video (LONG_WIDTH × LONG_HEIGHT) with the
+    same scene structure as create_short but in landscape format.
+
+    The audio content is identical — same hook, pronunciation, definition,
+    example, synonyms, memory tip — so viewers who watch both formats get
+    a consistent lesson in their preferred aspect ratio.
+    """
+    os.makedirs(TEMP_DIR, exist_ok=True)
+
+    word     = word_data["word"]
+    pos      = word_data.get("part_of_speech", "")
+    defn     = word_data["definition"]
+    syns     = word_data.get("synonyms", [])
+    tip      = word_data.get("memory_tip", "")
+    images   = word_images or []
+    headline = _headline(word_data)
+
+    W, H = LONG_WIDTH, LONG_HEIGHT
+
+    def img(i):
+        return images[i] if i < len(images) else (images[-1] if images else None)
+
+    img_slot = 0
+
+    # Scene 1: hook
+    specs = [{
+        "frame": _make_hook_frame(word_data, W, H),
+        "segments": [
+            {"text": f"Do you know what {word} means in Spanish?",
+             "lang": "en", "rate": "+15%"},
+        ],
+    }]
+
+    # Scene 2: pronunciation — say the word in Spanish twice
+    specs.append({
+        "frame": _make_word_frame(word_data, W, H),
+        "segments": [
+            {"text": headline, "lang": "es", "rate": "+0%",
+             "pause_after": 0.30},
+            {"text": headline, "lang": "es", "rate": "+0%"},
+        ],
+    })
+
+    # Scene 3: definition
+    specs.append({
+        "frame": _make_definition_frame(word_data, W, H, bg_image=img(img_slot)),
+        "segments": [
+            {"text": (f"{pos}. " if pos else "") + defn + ".",
+             "lang": "en", "rate": "+10%"},
+        ],
+    })
+    img_slot += 1
+
+    # Scene 4: example sentence
+    example_es = word_data.get("example_es", "")
+    example_en = word_data.get("example_en", "")
+    if example_es:
+        ex_segments = [{"text": example_es, "lang": "es", "rate": "+0%"}]
+        if example_en:
+            ex_segments.append({"text": f"In English: {example_en}",
+                                 "lang": "en", "rate": "+10%"})
+        specs.append({
+            "frame":    _make_example_frame(word_data, W, H, img(img_slot)),
+            "segments": ex_segments,
+        })
+        img_slot += 1
+
+    # Scene 5: synonyms
+    if syns:
+        syn_segments = [
+            {"text": "Related words.", "lang": "en", "rate": "+10%",
+             "pause_after": 0.25},
+        ]
+        top = syns[:3]
+        for j, s in enumerate(top):
+            syn_segments.append({
+                "text": s, "lang": "es", "rate": "+0%",
+                "pause_after": 0.25 if j < len(top) - 1 else 0.0,
+            })
+        specs.append({
+            "frame":    _make_synonyms_frame(word_data, W, H, img(img_slot)),
+            "segments": syn_segments,
+        })
+        img_slot += 1
+
+    # Scene 6: memory tip
+    if tip:
+        specs.append({
+            "frame": _make_tip_frame(word_data, tip, W, H, img(img_slot)),
+            "segments": [
+                {"text": f"Memory tip. {tip}", "lang": "en", "rate": "+10%"},
+            ],
+        })
+
+    # Scene 7: recap pronunciation + sign-off
+    specs.append({
+        "frame": _make_word_frame(word_data, W, H),
+        "segments": [
+            {"text": headline, "lang": "es", "rate": "+0%",
+             "pause_after": 0.25},
+            {"text": "Now you know! Keep learning Spanish with Everyday Spanish.",
+             "lang": "en", "rate": "+10%"},
+        ],
+    })
+
+    # Render
+    clip_paths = []
+    for i, spec in enumerate(specs):
+        apath = os.path.join(TEMP_DIR, f"long_a_{i}.mp3")
+        _multi_tts(spec["segments"], apath,
+                   trim_silence=spec.get("trim_silence", False))
+
+        dur  = get_audio_duration(apath) + AUDIO_PADDING
+        clip = os.path.join(TEMP_DIR, f"long_clip_{i}.mp4")
+        _render_one_scene(spec["frame"], apath, dur, clip, W, H)
+        clip_paths.append(clip)
+
+        if os.path.exists(apath):
+            os.remove(apath)
+
     music = _select_music_track()
     if music:
         pre_music = output_path + ".no_music.mp4"
