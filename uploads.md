@@ -8,3 +8,4 @@ by the pipeline after each successful upload.
 | 2026-06-01 | 1 | plátano | — | el | A1 | Banana | [link](https://youtube.com/shorts/Ujgk-EGfICw) |
 | 2026-06-01 | 1 | vacío | — | el | A1 | Empty space | [link](https://youtube.com/shorts/AWqV_mk2ttg) |
 | 2026-06-01 | 2 | beber | — | — | A1 | To drink | [link](https://youtube.com/shorts/o_IpUtBuE4A) |
+| 2026-06-02 | 2 | marrón | — | el | A1 | Brown color | [link](https://youtube.com/shorts/bn3jCqTNQ5Q) |
