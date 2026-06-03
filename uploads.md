@@ -13,3 +13,4 @@ by the pipeline after each successful upload.
 | 2026-06-02 | 1 | abierto | — | — | A1 | Open or not closed | [link](https://youtube.com/shorts/Z9UHDejWHxY) |
 | 2026-06-03 | 2 | mesa | — | la | A1 | Table or desk | [link](https://youtube.com/shorts/GRzn7hTEW0c) |
 | 2026-06-03 | 0 | tía | — | la | A1 | Aunt | [link](https://youtube.com/shorts/iDfx49rh1UY) |
+| 2026-06-03 | 1 | cuatro | — | — | A1 | The number four | [link](https://youtube.com/shorts/S0D-nI0J_60) |
