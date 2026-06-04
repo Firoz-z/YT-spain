@@ -216,17 +216,17 @@ def run(slot: int = 0) -> None:
     short_path = os.path.join(OUTPUT_DIR, f"{safe_name}_{today}_s{slot}_short.mp4")
     create_short(word_data, short_path, word_images=word_images)
 
-    # 4b — build Long companion video (16:9 horizontal)
-    long_path = os.path.join(OUTPUT_DIR, f"{safe_name}_{today}_s{slot}_long.mp4")
-    create_long(word_data, long_path, word_images=word_images)
+    # 4b — Long companion video disabled (re-enable when ready)
+    # long_path = os.path.join(OUTPUT_DIR, f"{safe_name}_{today}_s{slot}_long.mp4")
+    # create_long(word_data, long_path, word_images=word_images)
 
     # 5a — upload Short + file into the level's playlist
     short_id = upload_short_only(short_path, word_data, level=level)
     print(f"  short  → https://youtube.com/shorts/{short_id}")
 
-    # 5b — upload Long companion (same playlist as the Short)
-    long_id = upload_long(long_path, word_data, level=level)
-    print(f"  long   → https://youtube.com/watch?v={long_id}")
+    # 5b — Long upload disabled (re-enable when ready)
+    # long_id = upload_long(long_path, word_data, level=level)
+    # print(f"  long   → https://youtube.com/watch?v={long_id}")
 
     # 6 — append to upload history (committed back by the workflow)
     _log_upload(word_data, short_id, slot)
