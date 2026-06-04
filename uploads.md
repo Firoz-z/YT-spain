@@ -15,3 +15,4 @@ by the pipeline after each successful upload.
 | 2026-06-03 | 0 | tía | — | la | A1 | Aunt | [link](https://youtube.com/shorts/iDfx49rh1UY) |
 | 2026-06-03 | 1 | cuatro | — | — | A1 | The number four | [link](https://youtube.com/shorts/S0D-nI0J_60) |
 | 2026-06-03 | 2 | tres | — | — | A1 | The number three | [link](https://youtube.com/shorts/CRddteU99DQ) |
+| 2026-06-04 | 2 | cuál | — | — | A1 | Which one | [link](https://youtube.com/shorts/xI5wkaO92dY) |
