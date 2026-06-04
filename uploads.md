@@ -17,3 +17,4 @@ by the pipeline after each successful upload.
 | 2026-06-03 | 2 | tres | — | — | A1 | The number three | [link](https://youtube.com/shorts/CRddteU99DQ) |
 | 2026-06-04 | 2 | cuál | — | — | A1 | Which one | [link](https://youtube.com/shorts/xI5wkaO92dY) |
 | 2026-06-04 | 3 | jueves | — | el | A1 | Thursday | [link](https://youtube.com/shorts/xMM5OGnp9-c) |
+| 2026-06-04 | 0 | pájaro | — | el | A1 | Bird | [link](https://youtube.com/shorts/OsHWsGHD9hw) |
