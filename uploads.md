@@ -21,3 +21,4 @@ by the pipeline after each successful upload.
 | 2026-06-04 | 2 | niño | — | el | A1 | Young boy | [link](https://youtube.com/shorts/kgr_pBF3mDU) |
 | 2026-06-05 | 3 | ratón | — | el | A1 | Computer mouse | [link](https://youtube.com/shorts/dQfBIwei9JA) |
 | 2026-06-05 | 3 | algo | — | — | A1 | Something | [link](https://youtube.com/shorts/uZ5Lbkmk_Jk) |
+| 2026-06-05 | 1 | perdón | — | — | A1 | Excuse or forgiveness | [link](https://youtube.com/shorts/WZHK7Uf9M9s) |
