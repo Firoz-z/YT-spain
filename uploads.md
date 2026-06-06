@@ -25,3 +25,4 @@ by the pipeline after each successful upload.
 | 2026-06-05 | 1 | esposa | — | la | A1 | Wife | [link](https://youtube.com/shorts/EWWGP5X-0WM) |
 | 2026-06-06 | 3 | doce | — | — | A1 | Twelve | [link](https://youtube.com/shorts/0XvKsXQpikE) |
 | 2026-06-06 | 3 | verde | — | — | A1 | Green | [link](https://youtube.com/shorts/Suwa81_4XfI) |
+| 2026-06-06 | 0 | baño | — | el | A1 | Bathroom | [link](https://youtube.com/shorts/6k9wexjwmcg) |
