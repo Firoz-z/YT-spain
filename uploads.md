@@ -27,3 +27,4 @@ by the pipeline after each successful upload.
 | 2026-06-06 | 3 | verde | — | — | A1 | Green | [link](https://youtube.com/shorts/Suwa81_4XfI) |
 | 2026-06-06 | 0 | baño | — | el | A1 | Bathroom | [link](https://youtube.com/shorts/6k9wexjwmcg) |
 | 2026-06-06 | 1 | rojo | — | — | A1 | Red color | [link](https://youtube.com/shorts/LPGmrSOwGts) |
+| 2026-06-07 | 3 | gracias | — | — | A1 | Thanks | [link](https://youtube.com/shorts/klgEEU7vc-s) |
