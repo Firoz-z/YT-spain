@@ -29,3 +29,4 @@ by the pipeline after each successful upload.
 | 2026-06-06 | 1 | rojo | — | — | A1 | Red color | [link](https://youtube.com/shorts/LPGmrSOwGts) |
 | 2026-06-07 | 3 | gracias | — | — | A1 | Thanks | [link](https://youtube.com/shorts/klgEEU7vc-s) |
 | 2026-06-07 | 1 | viernes | — | el | A1 | Friday of the week | [link](https://youtube.com/shorts/_2KpvIC3gp4) |
+| 2026-06-07 | 1 | nuevo | — | — | A1 | New | [link](https://youtube.com/shorts/xfURc2urbbc) |
