@@ -32,3 +32,4 @@ by the pipeline after each successful upload.
 | 2026-06-07 | 1 | nuevo | — | — | A1 | New | [link](https://youtube.com/shorts/xfURc2urbbc) |
 | 2026-06-08 | 0 | hermana | — | la | A1 | Sister | [link](https://youtube.com/shorts/rpdjYrdW_mw) |
 | 2026-06-08 | 1 | pez | — | el | A1 | Fish | [link](https://youtube.com/shorts/3XJxKHypN18) |
+| 2026-06-08 | 2 | dedo | — | el | A1 | finger | [link](https://youtube.com/shorts/s-hMZqTf_FY) |
