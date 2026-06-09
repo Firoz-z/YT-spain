@@ -36,3 +36,4 @@ by the pipeline after each successful upload.
 | 2026-06-09 | 3 | ir | — | — | A1 | To go | [link](https://youtube.com/shorts/d38v081Pwh8) |
 | 2026-06-09 | 3 | café | — | el | A1 | Coffee or coffee shop | [link](https://youtube.com/shorts/KJ1b7xBwPB0) |
 | 2026-06-09 | 1 | alto | — | el | A1 | Tall, high | [link](https://youtube.com/shorts/l3MP_m4tVrM) |
+| 2026-06-09 | 2 | cocina | — | la | A1 | Kitchen | [link](https://youtube.com/shorts/eHyEPJLFs7g) |
