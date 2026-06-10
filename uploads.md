@@ -39,3 +39,4 @@ by the pipeline after each successful upload.
 | 2026-06-09 | 2 | cocina | — | la | A1 | Kitchen | [link](https://youtube.com/shorts/eHyEPJLFs7g) |
 | 2026-06-10 | 3 | feliz | — | — | A1 | Happy or joyful | [link](https://youtube.com/shorts/jD-CTKSlNc4) |
 | 2026-06-10 | 0 | bonito | — | el | A1 | Pretty or nice | [link](https://youtube.com/shorts/XiHihX8Abgs) |
+| 2026-06-10 | 1 | ducha | — | la | A1 | Shower | [link](https://youtube.com/shorts/8ky17gbfK5E) |
