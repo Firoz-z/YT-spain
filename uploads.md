@@ -41,3 +41,4 @@ by the pipeline after each successful upload.
 | 2026-06-10 | 0 | bonito | — | el | A1 | Pretty or nice | [link](https://youtube.com/shorts/XiHihX8Abgs) |
 | 2026-06-10 | 1 | ducha | — | la | A1 | Shower | [link](https://youtube.com/shorts/8ky17gbfK5E) |
 | 2026-06-10 | 2 | caballo | — | el | A1 | A horse | [link](https://youtube.com/shorts/FxtTaj1N-XI) |
+| 2026-06-11 | 0 | mil | — | — | A1 | One thousand | [link](https://youtube.com/shorts/vp2IlwpLN9s) |
