@@ -43,3 +43,4 @@ by the pipeline after each successful upload.
 | 2026-06-10 | 2 | caballo | — | el | A1 | A horse | [link](https://youtube.com/shorts/FxtTaj1N-XI) |
 | 2026-06-11 | 0 | mil | — | — | A1 | One thousand | [link](https://youtube.com/shorts/vp2IlwpLN9s) |
 | 2026-06-11 | 0 | persona | — | la | A1 | A person or individual | [link](https://youtube.com/shorts/uSyelwLsx1k) |
+| 2026-06-11 | 0 | teléfono | — | el | A1 | Phone device | [link](https://youtube.com/shorts/w4IFmKVPqr0) |
