@@ -44,3 +44,4 @@ by the pipeline after each successful upload.
 | 2026-06-11 | 0 | mil | — | — | A1 | One thousand | [link](https://youtube.com/shorts/vp2IlwpLN9s) |
 | 2026-06-11 | 0 | persona | — | la | A1 | A person or individual | [link](https://youtube.com/shorts/uSyelwLsx1k) |
 | 2026-06-11 | 0 | teléfono | — | el | A1 | Phone device | [link](https://youtube.com/shorts/w4IFmKVPqr0) |
+| 2026-06-11 | 1 | noche | — | la | A1 | Night or evening time | [link](https://youtube.com/shorts/fLu6Z4sjwWs) |
