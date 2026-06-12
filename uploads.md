@@ -48,3 +48,4 @@ by the pipeline after each successful upload.
 | 2026-06-12 | 2 | mujer | — | la | A1 | Adult female person | [link](https://youtube.com/shorts/Oqkf0PHU0EY) |
 | 2026-06-12 | 3 | dar | — | — | A1 | To give | [link](https://youtube.com/shorts/SEdqgKQJ1-w) |
 | 2026-06-12 | 0 | conejo | — | el | A1 | Small rabbit | [link](https://youtube.com/shorts/KgoQDWvjZ5g) |
+| 2026-06-12 | 1 | hoy | — | — | A1 | Today | [link](https://youtube.com/shorts/0uX91NI2ePM) |
