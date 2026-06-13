@@ -51,3 +51,4 @@ by the pipeline after each successful upload.
 | 2026-06-12 | 1 | hoy | — | — | A1 | Today | [link](https://youtube.com/shorts/0uX91NI2ePM) |
 | 2026-06-13 | 2 | vaca | — | la | A1 | Female cow | [link](https://youtube.com/shorts/m1HEv4qEkcM) |
 | 2026-06-13 | 3 | hijo | — | el | A1 | Son | [link](https://youtube.com/shorts/gVz4WnbzW_s) |
+| 2026-06-13 | 0 | lleno | — | — | A1 | Full, filled | [link](https://youtube.com/shorts/P4q7XO-wlJ4) |
