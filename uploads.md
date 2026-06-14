@@ -55,3 +55,4 @@ by the pipeline after each successful upload.
 | 2026-06-13 | 1 | madre | — | la | A1 | Mother | [link](https://youtube.com/shorts/VjHm5SV_6qU) |
 | 2026-06-14 | 2 | cerrado | — | — | A1 | Closed | [link](https://youtube.com/shorts/pu-eAWMfMrA) |
 | 2026-06-14 | 3 | dormir | — | — | A1 | To sleep | [link](https://youtube.com/shorts/V51xtECVrf0) |
+| 2026-06-14 | 0 | menos | — | — | A1 | Less | [link](https://youtube.com/shorts/MxLGooR8Gz0) |
