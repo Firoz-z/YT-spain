@@ -57,3 +57,4 @@ by the pipeline after each successful upload.
 | 2026-06-14 | 3 | dormir | — | — | A1 | To sleep | [link](https://youtube.com/shorts/V51xtECVrf0) |
 | 2026-06-14 | 0 | menos | — | — | A1 | Less | [link](https://youtube.com/shorts/MxLGooR8Gz0) |
 | 2026-06-14 | 1 | pequeño | — | el | A1 | Small in size | [link](https://youtube.com/shorts/cDS_qkROG1c) |
+| 2026-06-15 | 2 | cuello | — | el | A1 | Neck | [link](https://youtube.com/shorts/qAAbol1MtJA) |
