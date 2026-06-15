@@ -60,3 +60,4 @@ by the pipeline after each successful upload.
 | 2026-06-15 | 2 | cuello | — | el | A1 | Neck | [link](https://youtube.com/shorts/qAAbol1MtJA) |
 | 2026-06-15 | 3 | treinta | — | — | A1 | Thirty | [link](https://youtube.com/shorts/ndQN6qNJLBA) |
 | 2026-06-15 | 1 | miel | — | la | A1 | Honey | [link](https://youtube.com/shorts/EEAWbYEMt8A) |
+| 2026-06-15 | 1 | cinco | — | — | A1 | Number five | [link](https://youtube.com/shorts/2VaX5qvinpM) |
