@@ -64,3 +64,4 @@ by the pipeline after each successful upload.
 | 2026-06-16 | 3 | cuándo | — | — | A1 | When | [link](https://youtube.com/shorts/EUG6f2JT6Kg) |
 | 2026-06-16 | 3 | azúcar | — | la | A1 | Sugar | [link](https://youtube.com/shorts/8xu5cFqU4to) |
 | 2026-06-16 | 1 | jabón | — | el | A1 | Soap | [link](https://youtube.com/shorts/6M_Yf_ijnzc) |
+| 2026-06-16 | 1 | diente | — | el | A1 | Tooth | [link](https://youtube.com/shorts/1HxSKIaizgs) |
