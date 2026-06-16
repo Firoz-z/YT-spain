@@ -61,3 +61,4 @@ by the pipeline after each successful upload.
 | 2026-06-15 | 3 | treinta | — | — | A1 | Thirty | [link](https://youtube.com/shorts/ndQN6qNJLBA) |
 | 2026-06-15 | 1 | miel | — | la | A1 | Honey | [link](https://youtube.com/shorts/EEAWbYEMt8A) |
 | 2026-06-15 | 1 | cinco | — | — | A1 | Number five | [link](https://youtube.com/shorts/2VaX5qvinpM) |
+| 2026-06-16 | 3 | cuándo | — | — | A1 | When | [link](https://youtube.com/shorts/EUG6f2JT6Kg) |
