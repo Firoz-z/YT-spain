@@ -66,3 +66,4 @@ by the pipeline after each successful upload.
 | 2026-06-16 | 1 | jabón | — | el | A1 | Soap | [link](https://youtube.com/shorts/6M_Yf_ijnzc) |
 | 2026-06-16 | 1 | diente | — | el | A1 | Tooth | [link](https://youtube.com/shorts/1HxSKIaizgs) |
 | 2026-06-17 | 2 | gato | — | el | A1 | Male cat | [link](https://youtube.com/shorts/7s9Z_jJi7RI) |
+| 2026-06-17 | 3 | quién | — | — | A1 | Person who does something | [link](https://youtube.com/shorts/odDC0h1-_48) |
