@@ -65,3 +65,4 @@ by the pipeline after each successful upload.
 | 2026-06-16 | 3 | azúcar | — | la | A1 | Sugar | [link](https://youtube.com/shorts/8xu5cFqU4to) |
 | 2026-06-16 | 1 | jabón | — | el | A1 | Soap | [link](https://youtube.com/shorts/6M_Yf_ijnzc) |
 | 2026-06-16 | 1 | diente | — | el | A1 | Tooth | [link](https://youtube.com/shorts/1HxSKIaizgs) |
+| 2026-06-17 | 2 | gato | — | el | A1 | Male cat | [link](https://youtube.com/shorts/7s9Z_jJi7RI) |
