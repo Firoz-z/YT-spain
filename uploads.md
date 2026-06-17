@@ -68,3 +68,4 @@ by the pipeline after each successful upload.
 | 2026-06-17 | 2 | gato | — | el | A1 | Male cat | [link](https://youtube.com/shorts/7s9Z_jJi7RI) |
 | 2026-06-17 | 3 | quién | — | — | A1 | Person who does something | [link](https://youtube.com/shorts/odDC0h1-_48) |
 | 2026-06-17 | 0 | de nada | — | — | A1 | You're welcome | [link](https://youtube.com/shorts/QaVJEfxE83E) |
+| 2026-06-17 | 1 | té | — | el | A1 | Hot drink made from leaves | [link](https://youtube.com/shorts/RIcHMImMitM) |
