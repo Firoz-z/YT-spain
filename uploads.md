@@ -70,3 +70,4 @@ by the pipeline after each successful upload.
 | 2026-06-17 | 0 | de nada | — | — | A1 | You're welcome | [link](https://youtube.com/shorts/QaVJEfxE83E) |
 | 2026-06-17 | 1 | té | — | el | A1 | Hot drink made from leaves | [link](https://youtube.com/shorts/RIcHMImMitM) |
 | 2026-06-18 | 2 | toalla | — | la | A1 | Towel | [link](https://youtube.com/shorts/A5-bBwacAcI) |
+| 2026-06-18 | 3 | esposo | — | el | A1 | Husband | [link](https://youtube.com/shorts/OtpqtS3AkHQ) |
