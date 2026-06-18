@@ -72,3 +72,4 @@ by the pipeline after each successful upload.
 | 2026-06-18 | 2 | toalla | — | la | A1 | Towel | [link](https://youtube.com/shorts/A5-bBwacAcI) |
 | 2026-06-18 | 3 | esposo | — | el | A1 | Husband | [link](https://youtube.com/shorts/OtpqtS3AkHQ) |
 | 2026-06-18 | 0 | veinte | — | — | A1 | Twenty | [link](https://youtube.com/shorts/PoZkNtjT7Gs) |
+| 2026-06-18 | 1 | ayer | — | — | A1 | Yesterday | [link](https://youtube.com/shorts/FFnyok2BDqs) |
