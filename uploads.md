@@ -76,3 +76,4 @@ by the pipeline after each successful upload.
 | 2026-06-19 | 2 | entrar | — | — | A1 | To enter | [link](https://youtube.com/shorts/mBYZihPNMNM) |
 | 2026-06-19 | 3 | señor | — | el | A1 | Respected man or sir | [link](https://youtube.com/shorts/5V5nBG88CE0) |
 | 2026-06-19 | 0 | poco | — | — | A1 | A small amount | [link](https://youtube.com/shorts/Dy183cN1P-U) |
+| 2026-06-19 | 1 | qué | — | — | A1 | What in question | [link](https://youtube.com/shorts/2uu6Ox9fC2U) |
