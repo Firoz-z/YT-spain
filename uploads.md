@@ -73,3 +73,4 @@ by the pipeline after each successful upload.
 | 2026-06-18 | 3 | esposo | — | el | A1 | Husband | [link](https://youtube.com/shorts/OtpqtS3AkHQ) |
 | 2026-06-18 | 0 | veinte | — | — | A1 | Twenty | [link](https://youtube.com/shorts/PoZkNtjT7Gs) |
 | 2026-06-18 | 1 | ayer | — | — | A1 | Yesterday | [link](https://youtube.com/shorts/FFnyok2BDqs) |
+| 2026-06-19 | 2 | entrar | — | — | A1 | To enter | [link](https://youtube.com/shorts/mBYZihPNMNM) |
