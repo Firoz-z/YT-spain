@@ -75,3 +75,4 @@ by the pipeline after each successful upload.
 | 2026-06-18 | 1 | ayer | — | — | A1 | Yesterday | [link](https://youtube.com/shorts/FFnyok2BDqs) |
 | 2026-06-19 | 2 | entrar | — | — | A1 | To enter | [link](https://youtube.com/shorts/mBYZihPNMNM) |
 | 2026-06-19 | 3 | señor | — | el | A1 | Respected man or sir | [link](https://youtube.com/shorts/5V5nBG88CE0) |
+| 2026-06-19 | 0 | poco | — | — | A1 | A small amount | [link](https://youtube.com/shorts/Dy183cN1P-U) |
