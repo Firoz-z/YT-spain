@@ -80,3 +80,4 @@ by the pipeline after each successful upload.
 | 2026-06-20 | 2 | amarillo | — | — | A1 | Yellow color | [link](https://youtube.com/shorts/TQjPp6AuwWQ) |
 | 2026-06-20 | 3 | dónde | — | — | A1 | Where | [link](https://youtube.com/shorts/mlspZ_Oe_d8) |
 | 2026-06-20 | 0 | dos | — | — | A1 | The number two | [link](https://youtube.com/shorts/3Vz427bacsE) |
+| 2026-06-20 | 1 | nada | — | — | A1 | Nothing | [link](https://youtube.com/shorts/QBaTB299UbI) |
