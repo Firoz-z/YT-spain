@@ -82,3 +82,4 @@ by the pipeline after each successful upload.
 | 2026-06-20 | 0 | dos | — | — | A1 | The number two | [link](https://youtube.com/shorts/3Vz427bacsE) |
 | 2026-06-20 | 1 | nada | — | — | A1 | Nothing | [link](https://youtube.com/shorts/QBaTB299UbI) |
 | 2026-06-21 | 2 | quince | — | — | A1 | Fifteen | [link](https://youtube.com/shorts/DHIGNZWCoUQ) |
+| 2026-06-21 | 3 | cocinar | — | — | A1 | To cook | [link](https://youtube.com/shorts/9g6mUg41V4U) |
