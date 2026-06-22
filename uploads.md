@@ -85,3 +85,4 @@ by the pipeline after each successful upload.
 | 2026-06-21 | 3 | cocinar | — | — | A1 | To cook | [link](https://youtube.com/shorts/9g6mUg41V4U) |
 | 2026-06-21 | 0 | libro | — | el | A1 | A book | [link](https://youtube.com/shorts/jZohLiPr44E) |
 | 2026-06-21 | 1 | primo | — | el | A1 | Male cousin | [link](https://youtube.com/shorts/kxie5Jvyc2k) |
+| 2026-06-22 | 2 | cien | — | — | A1 | One hundred | [link](https://youtube.com/shorts/SAwQuu1DqQg) |
