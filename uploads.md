@@ -88,3 +88,4 @@ by the pipeline after each successful upload.
 | 2026-06-22 | 2 | cien | — | — | A1 | One hundred | [link](https://youtube.com/shorts/SAwQuu1DqQg) |
 | 2026-06-22 | 3 | frío | — | el | A1 | Cold | [link](https://youtube.com/shorts/g8SycvrFkkY) |
 | 2026-06-22 | 0 | hablar | — | — | A1 | To speak or talk | [link](https://youtube.com/shorts/twUzHm9PX2g) |
+| 2026-06-22 | 1 | sopa | — | la | A1 | Thick soup | [link](https://youtube.com/shorts/ej_-QY5zlh8) |
