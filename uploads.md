@@ -91,3 +91,4 @@ by the pipeline after each successful upload.
 | 2026-06-22 | 1 | sopa | — | la | A1 | Thick soup | [link](https://youtube.com/shorts/ej_-QY5zlh8) |
 | 2026-06-23 | 2 | agua | — | la | A1 | Water | [link](https://youtube.com/shorts/p4UCf5zqWMc) |
 | 2026-06-23 | 3 | mantequilla | — | la | A1 | Butter | [link](https://youtube.com/shorts/EM0Mz-c-TMY) |
+| 2026-06-23 | 0 | mes | — | el | A1 | Month | [link](https://youtube.com/shorts/eVpiugGW7oY) |
