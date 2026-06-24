@@ -93,3 +93,4 @@ by the pipeline after each successful upload.
 | 2026-06-23 | 3 | mantequilla | — | la | A1 | Butter | [link](https://youtube.com/shorts/EM0Mz-c-TMY) |
 | 2026-06-23 | 0 | mes | — | el | A1 | Month | [link](https://youtube.com/shorts/eVpiugGW7oY) |
 | 2026-06-23 | 1 | ocho | — | — | A1 | The number eight | [link](https://youtube.com/shorts/TGXW6qMbIHI) |
+| 2026-06-24 | 2 | cerrar | — | — | A1 | To close something | [link](https://youtube.com/shorts/KqF8Nh-3BN4) |
