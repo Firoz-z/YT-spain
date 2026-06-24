@@ -96,3 +96,4 @@ by the pipeline after each successful upload.
 | 2026-06-24 | 2 | cerrar | — | — | A1 | To close something | [link](https://youtube.com/shorts/KqF8Nh-3BN4) |
 | 2026-06-24 | 3 | no | — | — | A1 | Not, used for negation | [link](https://youtube.com/shorts/2iMOvjyUS_Y) |
 | 2026-06-24 | 0 | gustar | — | — | A1 | To like something | [link](https://youtube.com/shorts/dG8OzQ2yQwM) |
+| 2026-06-24 | 1 | niña | — | la | A1 | Young girl | [link](https://youtube.com/shorts/dRmq_XSCGdw) |
