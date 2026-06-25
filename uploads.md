@@ -99,3 +99,4 @@ by the pipeline after each successful upload.
 | 2026-06-24 | 1 | niña | — | la | A1 | Young girl | [link](https://youtube.com/shorts/dRmq_XSCGdw) |
 | 2026-06-25 | 2 | sal | — | la | A1 | Salt | [link](https://youtube.com/shorts/ITY7XYympVI) |
 | 2026-06-25 | 3 | venir | — | — | A1 | To come | [link](https://youtube.com/shorts/XcD8KkiH3z0) |
+| 2026-06-25 | 0 | triste | — | — | A1 | Sad or unhappy | [link](https://youtube.com/shorts/XEj2ZxkxUjs) |
