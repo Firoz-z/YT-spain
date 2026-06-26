@@ -104,3 +104,4 @@ by the pipeline after each successful upload.
 | 2026-06-26 | 2 | decir | — | — | A1 | to say | [link](https://youtube.com/shorts/NJl7ZBbYxBQ) |
 | 2026-06-26 | 3 | todo | — | — | A1 | All, everything | [link](https://youtube.com/shorts/RZ4lXeUHi3s) |
 | 2026-06-26 | 0 | pelo | — | el | A1 | Hair | [link](https://youtube.com/shorts/6E5AcJM2c60) |
+| 2026-06-26 | 1 | sí | — | — | A1 | Yes | [link](https://youtube.com/shorts/B93jXN3abMg) |
