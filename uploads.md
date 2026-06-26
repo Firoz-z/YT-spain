@@ -103,3 +103,4 @@ by the pipeline after each successful upload.
 | 2026-06-25 | 1 | familia | — | la | A1 | Family members | [link](https://youtube.com/shorts/y_3A2jFPaOY) |
 | 2026-06-26 | 2 | decir | — | — | A1 | to say | [link](https://youtube.com/shorts/NJl7ZBbYxBQ) |
 | 2026-06-26 | 3 | todo | — | — | A1 | All, everything | [link](https://youtube.com/shorts/RZ4lXeUHi3s) |
+| 2026-06-26 | 0 | pelo | — | el | A1 | Hair | [link](https://youtube.com/shorts/6E5AcJM2c60) |
