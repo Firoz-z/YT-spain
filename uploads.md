@@ -106,3 +106,4 @@ by the pipeline after each successful upload.
 | 2026-06-26 | 0 | pelo | — | el | A1 | Hair | [link](https://youtube.com/shorts/6E5AcJM2c60) |
 | 2026-06-26 | 1 | sí | — | — | A1 | Yes | [link](https://youtube.com/shorts/B93jXN3abMg) |
 | 2026-06-27 | 2 | pie | — | el | A1 | Foot | [link](https://youtube.com/shorts/qxlcp247zmU) |
+| 2026-06-27 | 3 | padre | — | el | A1 | Father | [link](https://youtube.com/shorts/b9FOiD9Av7k) |
