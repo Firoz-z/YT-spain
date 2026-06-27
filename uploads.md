@@ -108,3 +108,4 @@ by the pipeline after each successful upload.
 | 2026-06-27 | 2 | pie | — | el | A1 | Foot | [link](https://youtube.com/shorts/qxlcp247zmU) |
 | 2026-06-27 | 3 | padre | — | el | A1 | Father | [link](https://youtube.com/shorts/b9FOiD9Av7k) |
 | 2026-06-27 | 0 | hora | — | la | A1 | Time or hour | [link](https://youtube.com/shorts/RNLI3IJzMRQ) |
+| 2026-06-27 | 1 | pescado | — | el | A1 | Fish as food | [link](https://youtube.com/shorts/uJX2d-qM2aQ) |
