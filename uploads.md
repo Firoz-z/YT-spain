@@ -111,3 +111,4 @@ by the pipeline after each successful upload.
 | 2026-06-27 | 1 | pescado | — | el | A1 | Fish as food | [link](https://youtube.com/shorts/uJX2d-qM2aQ) |
 | 2026-06-28 | 2 | querer | — | — | A1 | To want or love someone | [link](https://youtube.com/shorts/r5drKhusHAw) |
 | 2026-06-28 | 3 | prima | — | la | A1 | Female cousin | [link](https://youtube.com/shorts/AFK3WYnqEuA) |
+| 2026-06-28 | 0 | estar | — | — | A1 | To be in a location | [link](https://youtube.com/shorts/qL-7tfMIrgg) |
