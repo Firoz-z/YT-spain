@@ -113,3 +113,4 @@ by the pipeline after each successful upload.
 | 2026-06-28 | 3 | prima | — | la | A1 | Female cousin | [link](https://youtube.com/shorts/AFK3WYnqEuA) |
 | 2026-06-28 | 0 | estar | — | — | A1 | To be in a location | [link](https://youtube.com/shorts/qL-7tfMIrgg) |
 | 2026-06-28 | 1 | perro | — | el | A1 | Dog | [link](https://youtube.com/shorts/khCLExqqv6g) |
+| 2026-06-29 | 2 | hola | — | — | A1 | Hello, hi | [link](https://youtube.com/shorts/UBp3NzoOebA) |
