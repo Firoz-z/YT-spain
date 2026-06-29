@@ -116,3 +116,4 @@ by the pipeline after each successful upload.
 | 2026-06-29 | 2 | hola | — | — | A1 | Hello, hi | [link](https://youtube.com/shorts/UBp3NzoOebA) |
 | 2026-06-29 | 3 | diez | — | — | A1 | The number ten | [link](https://youtube.com/shorts/I0QUlkIE6og) |
 | 2026-06-29 | 0 | puerta | — | la | A1 | Door | [link](https://youtube.com/shorts/40pAHfEI0vA) |
+| 2026-06-29 | 1 | lunes | — | el | A1 | Monday | [link](https://youtube.com/shorts/M9Om80mZH1Q) |
