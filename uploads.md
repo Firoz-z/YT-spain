@@ -114,3 +114,4 @@ by the pipeline after each successful upload.
 | 2026-06-28 | 0 | estar | — | — | A1 | To be in a location | [link](https://youtube.com/shorts/qL-7tfMIrgg) |
 | 2026-06-28 | 1 | perro | — | el | A1 | Dog | [link](https://youtube.com/shorts/khCLExqqv6g) |
 | 2026-06-29 | 2 | hola | — | — | A1 | Hello, hi | [link](https://youtube.com/shorts/UBp3NzoOebA) |
+| 2026-06-29 | 3 | diez | — | — | A1 | The number ten | [link](https://youtube.com/shorts/I0QUlkIE6og) |
