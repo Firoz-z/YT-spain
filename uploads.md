@@ -119,3 +119,4 @@ by the pipeline after each successful upload.
 | 2026-06-29 | 1 | lunes | — | el | A1 | Monday | [link](https://youtube.com/shorts/M9Om80mZH1Q) |
 | 2026-06-30 | 2 | oreja | — | la | A1 | Ear | [link](https://youtube.com/shorts/L76nPUmFMaA) |
 | 2026-06-30 | 3 | mucho | — | — | A1 | Very or a lot | [link](https://youtube.com/shorts/mZduk6qVXhM) |
+| 2026-06-30 | 0 | once | — | — | A1 | Eleven | [link](https://youtube.com/shorts/-CuIho5Oi20) |
