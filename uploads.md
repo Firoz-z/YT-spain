@@ -124,3 +124,4 @@ by the pipeline after each successful upload.
 | 2026-07-01 | 2 | valiente | — | — | A2 | Brave person | [link](https://youtube.com/shorts/4Eh1gp8RgsE) |
 | 2026-07-01 | 3 | ocupado | — | — | A2 | Busy or occupied | [link](https://youtube.com/shorts/Y16-DVvNFi4) |
 | 2026-07-01 | 0 | ropa | — | la | A2 | Clothing or clothes | [link](https://youtube.com/shorts/S1_i19PjrYI) |
+| 2026-07-01 | 1 | necesitar | — | — | A2 | To need something | [link](https://youtube.com/shorts/3OCFxAbx90k) |
