@@ -121,3 +121,4 @@ by the pipeline after each successful upload.
 | 2026-06-30 | 3 | mucho | — | — | A1 | Very or a lot | [link](https://youtube.com/shorts/mZduk6qVXhM) |
 | 2026-06-30 | 0 | once | — | — | A1 | Eleven | [link](https://youtube.com/shorts/-CuIho5Oi20) |
 | 2026-06-30 | 1 | siete | — | — | A1 | The number seven | [link](https://youtube.com/shorts/IYu8x-33zic) |
+| 2026-07-01 | 2 | valiente | — | — | A2 | Brave person | [link](https://youtube.com/shorts/4Eh1gp8RgsE) |
