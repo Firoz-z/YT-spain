@@ -123,3 +123,4 @@ by the pipeline after each successful upload.
 | 2026-06-30 | 1 | siete | — | — | A1 | The number seven | [link](https://youtube.com/shorts/IYu8x-33zic) |
 | 2026-07-01 | 2 | valiente | — | — | A2 | Brave person | [link](https://youtube.com/shorts/4Eh1gp8RgsE) |
 | 2026-07-01 | 3 | ocupado | — | — | A2 | Busy or occupied | [link](https://youtube.com/shorts/Y16-DVvNFi4) |
+| 2026-07-01 | 0 | ropa | — | la | A2 | Clothing or clothes | [link](https://youtube.com/shorts/S1_i19PjrYI) |
