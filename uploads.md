@@ -126,3 +126,4 @@ by the pipeline after each successful upload.
 | 2026-07-01 | 0 | ropa | — | la | A2 | Clothing or clothes | [link](https://youtube.com/shorts/S1_i19PjrYI) |
 | 2026-07-01 | 1 | necesitar | — | — | A2 | To need something | [link](https://youtube.com/shorts/3OCFxAbx90k) |
 | 2026-07-02 | 2 | caro | — | — | A2 | Expensive | [link](https://youtube.com/shorts/Oga8rM3gm_Q) |
+| 2026-07-02 | 3 | pagar | — | — | A2 | To pay something | [link](https://youtube.com/shorts/ksenxIrqtk4) |
