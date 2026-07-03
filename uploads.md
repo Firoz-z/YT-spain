@@ -129,3 +129,4 @@ by the pipeline after each successful upload.
 | 2026-07-02 | 3 | pagar | — | — | A2 | To pay something | [link](https://youtube.com/shorts/ksenxIrqtk4) |
 | 2026-07-02 | 0 | montaña | — | la | A2 | Mountain | [link](https://youtube.com/shorts/UWpXTNbX7PA) |
 | 2026-07-02 | 1 | vestirse | — | — | A2 | to get dressed | [link](https://youtube.com/shorts/vtoKQooX6C0) |
+| 2026-07-03 | 2 | paciente | — | el | A2 | Patient person | [link](https://youtube.com/shorts/AQVhVl72E2Q) |
