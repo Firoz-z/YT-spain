@@ -136,3 +136,4 @@ by the pipeline after each successful upload.
 | 2026-07-04 | 2 | jefe | — | el | A2 | The boss or chief | [link](https://youtube.com/shorts/1VFmQq5sdDI) |
 | 2026-07-04 | 3 | árbol | — | el | A2 | Tree or plant | [link](https://youtube.com/shorts/eRJh-sI9dXI) |
 | 2026-07-04 | 0 | arriba | — | — | A2 | Up or above | [link](https://youtube.com/shorts/LG4bQ4Dcp3M) |
+| 2026-07-04 | 1 | correr | — | — | A2 | To run | [link](https://youtube.com/shorts/bDK1lsZKdbE) |
