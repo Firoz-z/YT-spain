@@ -133,3 +133,4 @@ by the pipeline after each successful upload.
 | 2026-07-03 | 3 | tomate | — | el | A2 | Red fruit used in cooking | [link](https://youtube.com/shorts/a9H7mSXuaqg) |
 | 2026-07-03 | 0 | asustado | — | — | A2 | Scared or frightened | [link](https://youtube.com/shorts/BaUSS6XFeTI) |
 | 2026-07-03 | 1 | viajar | — | — | A2 | To travel | [link](https://youtube.com/shorts/a58FtUNMw2k) |
+| 2026-07-04 | 2 | jefe | — | el | A2 | The boss or chief | [link](https://youtube.com/shorts/1VFmQq5sdDI) |
