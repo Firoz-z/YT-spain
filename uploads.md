@@ -138,3 +138,4 @@ by the pipeline after each successful upload.
 | 2026-07-04 | 0 | arriba | — | — | A2 | Up or above | [link](https://youtube.com/shorts/LG4bQ4Dcp3M) |
 | 2026-07-04 | 1 | correr | — | — | A2 | To run | [link](https://youtube.com/shorts/bDK1lsZKdbE) |
 | 2026-07-05 | 2 | comprender | — | — | A2 | To understand something | [link](https://youtube.com/shorts/eZ1SBei3VpA) |
+| 2026-07-05 | 3 | río | — | el | A2 | Natural flowing body of water | [link](https://youtube.com/shorts/jDqxcG0_0kI) |
