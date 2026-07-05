@@ -140,3 +140,4 @@ by the pipeline after each successful upload.
 | 2026-07-05 | 2 | comprender | — | — | A2 | To understand something | [link](https://youtube.com/shorts/eZ1SBei3VpA) |
 | 2026-07-05 | 3 | río | — | el | A2 | Natural flowing body of water | [link](https://youtube.com/shorts/jDqxcG0_0kI) |
 | 2026-07-05 | 0 | piña | — | la | A2 | Pineapple fruit | [link](https://youtube.com/shorts/IVEAeuPfw3A) |
+| 2026-07-05 | 1 | postre | — | el | A2 | Dessert | [link](https://youtube.com/shorts/UlmWeYTKVrM) |
