@@ -143,3 +143,4 @@ by the pipeline after each successful upload.
 | 2026-07-05 | 1 | postre | — | el | A2 | Dessert | [link](https://youtube.com/shorts/UlmWeYTKVrM) |
 | 2026-07-06 | 2 | sonreír | — | — | A2 | To smile | [link](https://youtube.com/shorts/IdWGaSUAv14) |
 | 2026-07-06 | 3 | taxi | — | el | A2 | Public vehicle for hire | [link](https://youtube.com/shorts/1-57Y9sgRXo) |
+| 2026-07-06 | 0 | nadar | — | — | A2 | To swim | [link](https://youtube.com/shorts/d4jMdl-kIAo) |
