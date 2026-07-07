@@ -148,3 +148,4 @@ by the pipeline after each successful upload.
 | 2026-07-07 | 2 | enseñar | — | — | A2 | to teach | [link](https://youtube.com/shorts/t2Uy6YAOKME) |
 | 2026-07-07 | 3 | fuera | — | — | A2 | Outside | [link](https://youtube.com/shorts/pqoq0X63Q7s) |
 | 2026-07-07 | 0 | cena | — | la | A2 | dinner | [link](https://youtube.com/shorts/Ec6FyMmFiIA) |
+| 2026-07-07 | 1 | barato | — | — | A2 | Cheap, low price | [link](https://youtube.com/shorts/JzabBu_UFg4) |
