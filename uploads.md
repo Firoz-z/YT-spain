@@ -146,3 +146,4 @@ by the pipeline after each successful upload.
 | 2026-07-06 | 0 | nadar | — | — | A2 | To swim | [link](https://youtube.com/shorts/d4jMdl-kIAo) |
 | 2026-07-06 | 1 | primavera | — | la | A2 | Spring season | [link](https://youtube.com/shorts/FIAoareNO2A) |
 | 2026-07-07 | 2 | enseñar | — | — | A2 | to teach | [link](https://youtube.com/shorts/t2Uy6YAOKME) |
+| 2026-07-07 | 3 | fuera | — | — | A2 | Outside | [link](https://youtube.com/shorts/pqoq0X63Q7s) |
