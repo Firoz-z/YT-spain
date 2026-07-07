@@ -145,3 +145,4 @@ by the pipeline after each successful upload.
 | 2026-07-06 | 3 | taxi | — | el | A2 | Public vehicle for hire | [link](https://youtube.com/shorts/1-57Y9sgRXo) |
 | 2026-07-06 | 0 | nadar | — | — | A2 | To swim | [link](https://youtube.com/shorts/d4jMdl-kIAo) |
 | 2026-07-06 | 1 | primavera | — | la | A2 | Spring season | [link](https://youtube.com/shorts/FIAoareNO2A) |
+| 2026-07-07 | 2 | enseñar | — | — | A2 | to teach | [link](https://youtube.com/shorts/t2Uy6YAOKME) |
