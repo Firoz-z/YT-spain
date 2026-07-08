@@ -150,3 +150,4 @@ by the pipeline after each successful upload.
 | 2026-07-07 | 0 | cena | — | la | A2 | dinner | [link](https://youtube.com/shorts/Ec6FyMmFiIA) |
 | 2026-07-07 | 1 | barato | — | — | A2 | Cheap, low price | [link](https://youtube.com/shorts/JzabBu_UFg4) |
 | 2026-07-08 | 2 | museo | — | el | A2 | A place for art and history | [link](https://youtube.com/shorts/UIH1FdoCtPM) |
+| 2026-07-08 | 3 | helado | — | el | A2 | Ice cream | [link](https://youtube.com/shorts/QCCuhCudWFw) |
