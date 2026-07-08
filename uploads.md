@@ -152,3 +152,4 @@ by the pipeline after each successful upload.
 | 2026-07-08 | 2 | museo | — | el | A2 | A place for art and history | [link](https://youtube.com/shorts/UIH1FdoCtPM) |
 | 2026-07-08 | 3 | helado | — | el | A2 | Ice cream | [link](https://youtube.com/shorts/QCCuhCudWFw) |
 | 2026-07-08 | 0 | playa | — | la | A2 | Beach | [link](https://youtube.com/shorts/13hsq6jM_tA) |
+| 2026-07-08 | 1 | autobús | — | el | A2 | Large public vehicle | [link](https://youtube.com/shorts/vii4SFHyYBQ) |
