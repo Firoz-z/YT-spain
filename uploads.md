@@ -154,3 +154,4 @@ by the pipeline after each successful upload.
 | 2026-07-08 | 0 | playa | — | la | A2 | Beach | [link](https://youtube.com/shorts/13hsq6jM_tA) |
 | 2026-07-08 | 1 | autobús | — | el | A2 | Large public vehicle | [link](https://youtube.com/shorts/vii4SFHyYBQ) |
 | 2026-07-09 | 2 | brillante | — | — | A2 | Very shiny | [link](https://youtube.com/shorts/1yM9MRRaR7s) |
+| 2026-07-09 | 3 | clima | — | el | A2 | Weather or climate | [link](https://youtube.com/shorts/0vQKUBD7nDY) |
