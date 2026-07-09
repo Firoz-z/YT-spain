@@ -156,3 +156,4 @@ by the pipeline after each successful upload.
 | 2026-07-09 | 2 | brillante | — | — | A2 | Very shiny | [link](https://youtube.com/shorts/1yM9MRRaR7s) |
 | 2026-07-09 | 3 | clima | — | el | A2 | Weather or climate | [link](https://youtube.com/shorts/0vQKUBD7nDY) |
 | 2026-07-09 | 0 | motocicleta | — | la | A2 | Motorcycle | [link](https://youtube.com/shorts/CvEhMRa0d9o) |
+| 2026-07-09 | 1 | plaza | — | la | A2 | Public square or town square | [link](https://youtube.com/shorts/wFR4YWhEjpw) |
