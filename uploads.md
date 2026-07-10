@@ -157,3 +157,4 @@ by the pipeline after each successful upload.
 | 2026-07-09 | 3 | clima | — | el | A2 | Weather or climate | [link](https://youtube.com/shorts/0vQKUBD7nDY) |
 | 2026-07-09 | 0 | motocicleta | — | la | A2 | Motorcycle | [link](https://youtube.com/shorts/CvEhMRa0d9o) |
 | 2026-07-09 | 1 | plaza | — | la | A2 | Public square or town square | [link](https://youtube.com/shorts/wFR4YWhEjpw) |
+| 2026-07-10 | 2 | verdura | — | la | A2 | Fresh vegetable | [link](https://youtube.com/shorts/yo4Y1L_ahk4) |
