@@ -160,3 +160,4 @@ by the pipeline after each successful upload.
 | 2026-07-10 | 2 | verdura | — | la | A2 | Fresh vegetable | [link](https://youtube.com/shorts/yo4Y1L_ahk4) |
 | 2026-07-10 | 3 | mercado | — | el | A2 | Market or shopping place | [link](https://youtube.com/shorts/ek8edrHH0tg) |
 | 2026-07-10 | 0 | calle | — | la | A2 | Street | [link](https://youtube.com/shorts/PbpdaejWZtk) |
+| 2026-07-10 | 1 | barco | — | el | A2 | A ship or boat | [link](https://youtube.com/shorts/l4A-2HZmmE8) |
