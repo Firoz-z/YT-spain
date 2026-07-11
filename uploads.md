@@ -163,3 +163,4 @@ by the pipeline after each successful upload.
 | 2026-07-10 | 1 | barco | — | el | A2 | A ship or boat | [link](https://youtube.com/shorts/l4A-2HZmmE8) |
 | 2026-07-11 | 2 | tímido | — | — | A2 | Shy person | [link](https://youtube.com/shorts/rIYovFk_XFU) |
 | 2026-07-11 | 3 | chaqueta | — | la | A2 | Jacket or coat | [link](https://youtube.com/shorts/yH8K_-B-edk) |
+| 2026-07-11 | 0 | ensalada | — | la | A2 | Mixed salad of vegetables | [link](https://youtube.com/shorts/qsC3HIOBld8) |
