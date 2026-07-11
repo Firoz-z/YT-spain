@@ -161,3 +161,4 @@ by the pipeline after each successful upload.
 | 2026-07-10 | 3 | mercado | — | el | A2 | Market or shopping place | [link](https://youtube.com/shorts/ek8edrHH0tg) |
 | 2026-07-10 | 0 | calle | — | la | A2 | Street | [link](https://youtube.com/shorts/PbpdaejWZtk) |
 | 2026-07-10 | 1 | barco | — | el | A2 | A ship or boat | [link](https://youtube.com/shorts/l4A-2HZmmE8) |
+| 2026-07-11 | 2 | tímido | — | — | A2 | Shy person | [link](https://youtube.com/shorts/rIYovFk_XFU) |
