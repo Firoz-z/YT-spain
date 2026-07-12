@@ -167,3 +167,4 @@ by the pipeline after each successful upload.
 | 2026-07-11 | 1 | banco | — | el | A2 | Bank or financial institution | [link](https://youtube.com/shorts/QGVGkYb8PkA) |
 | 2026-07-12 | 2 | volver | — | — | A2 | To return | [link](https://youtube.com/shorts/Aj2n9LeQeHc) |
 | 2026-07-12 | 3 | vender | — | — | A2 | To sell something | [link](https://youtube.com/shorts/g27ZXQMb_Q8) |
+| 2026-07-12 | 0 | puerto | — | el | A2 | Port or harbor | [link](https://youtube.com/shorts/p0BGvJB9WAQ) |
