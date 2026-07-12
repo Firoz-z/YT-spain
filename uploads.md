@@ -165,3 +165,4 @@ by the pipeline after each successful upload.
 | 2026-07-11 | 3 | chaqueta | — | la | A2 | Jacket or coat | [link](https://youtube.com/shorts/yH8K_-B-edk) |
 | 2026-07-11 | 0 | ensalada | — | la | A2 | Mixed salad of vegetables | [link](https://youtube.com/shorts/qsC3HIOBld8) |
 | 2026-07-11 | 1 | banco | — | el | A2 | Bank or financial institution | [link](https://youtube.com/shorts/QGVGkYb8PkA) |
+| 2026-07-12 | 2 | volver | — | — | A2 | To return | [link](https://youtube.com/shorts/Aj2n9LeQeHc) |
