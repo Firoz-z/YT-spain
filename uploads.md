@@ -171,3 +171,4 @@ by the pipeline after each successful upload.
 | 2026-07-12 | 1 | corbata | — | la | A2 | Necktie | [link](https://youtube.com/shorts/W2rH76-uPfk) |
 | 2026-07-13 | 2 | fuerte | — | — | A2 | Strong or powerful | [link](https://youtube.com/shorts/0DgXe7ccrbE) |
 | 2026-07-13 | 3 | estudiar | — | — | A2 | To study | [link](https://youtube.com/shorts/UN4vzmyPc-E) |
+| 2026-07-13 | 0 | piedra | — | la | A2 | Stone or rock | [link](https://youtube.com/shorts/ue4OonuwRCA) |
