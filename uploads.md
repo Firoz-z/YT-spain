@@ -175,3 +175,4 @@ by the pipeline after each successful upload.
 | 2026-07-13 | 1 | pensar | — | — | A2 | To think | [link](https://youtube.com/shorts/0fpKxF44_8Q) |
 | 2026-07-14 | 2 | contento | — | — | A2 | Happy, pleased | [link](https://youtube.com/shorts/gW-PVn2NBIc) |
 | 2026-07-14 | 3 | preferir | — | — | A2 | To prefer something | [link](https://youtube.com/shorts/fITYEQ-sUbk) |
+| 2026-07-14 | 0 | nota | — | la | A2 | School grade or note | [link](https://youtube.com/shorts/CZSWA-tQFnQ) |
