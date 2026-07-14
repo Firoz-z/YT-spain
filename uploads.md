@@ -173,3 +173,4 @@ by the pipeline after each successful upload.
 | 2026-07-13 | 3 | estudiar | — | — | A2 | To study | [link](https://youtube.com/shorts/UN4vzmyPc-E) |
 | 2026-07-13 | 0 | piedra | — | la | A2 | Stone or rock | [link](https://youtube.com/shorts/ue4OonuwRCA) |
 | 2026-07-13 | 1 | pensar | — | — | A2 | To think | [link](https://youtube.com/shorts/0fpKxF44_8Q) |
+| 2026-07-14 | 2 | contento | — | — | A2 | Happy, pleased | [link](https://youtube.com/shorts/gW-PVn2NBIc) |
