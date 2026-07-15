@@ -177,3 +177,4 @@ by the pipeline after each successful upload.
 | 2026-07-14 | 3 | preferir | — | — | A2 | To prefer something | [link](https://youtube.com/shorts/fITYEQ-sUbk) |
 | 2026-07-14 | 0 | nota | — | la | A2 | School grade or note | [link](https://youtube.com/shorts/CZSWA-tQFnQ) |
 | 2026-07-14 | 1 | sol | — | el | A2 | Sun | [link](https://youtube.com/shorts/i6vGheuT_d0) |
+| 2026-07-15 | 2 | farmacia | — | la | A2 | Pharmacy store | [link](https://youtube.com/shorts/lkToCITNI1M) |
