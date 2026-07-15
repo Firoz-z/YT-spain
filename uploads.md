@@ -178,3 +178,4 @@ by the pipeline after each successful upload.
 | 2026-07-14 | 0 | nota | — | la | A2 | School grade or note | [link](https://youtube.com/shorts/CZSWA-tQFnQ) |
 | 2026-07-14 | 1 | sol | — | el | A2 | Sun | [link](https://youtube.com/shorts/i6vGheuT_d0) |
 | 2026-07-15 | 2 | farmacia | — | la | A2 | Pharmacy store | [link](https://youtube.com/shorts/lkToCITNI1M) |
+| 2026-07-15 | 3 | sudadera | — | la | A2 | Hooded sweatshirt | [link](https://youtube.com/shorts/J7qw2xZ4f-s) |
