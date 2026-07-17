@@ -185,3 +185,4 @@ by the pipeline after each successful upload.
 | 2026-07-16 | 3 | divertido | — | — | A2 | Fun and entertaining | [link](https://youtube.com/shorts/u-GQ3FzL6go) |
 | 2026-07-16 | 0 | avión | — | el | A2 | Airplane | [link](https://youtube.com/shorts/1-TcqjyHYb8) |
 | 2026-07-16 | 1 | abrigo | — | el | A2 | Coat or jacket | [link](https://youtube.com/shorts/KU6HoUxrlh8) |
+| 2026-07-17 | 2 | derecha | — | la | A2 | Right side | [link](https://youtube.com/shorts/IrkU_w3vm_s) |
