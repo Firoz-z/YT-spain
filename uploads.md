@@ -187,3 +187,4 @@ by the pipeline after each successful upload.
 | 2026-07-16 | 1 | abrigo | — | el | A2 | Coat or jacket | [link](https://youtube.com/shorts/KU6HoUxrlh8) |
 | 2026-07-17 | 2 | derecha | — | la | A2 | Right side | [link](https://youtube.com/shorts/IrkU_w3vm_s) |
 | 2026-07-17 | 3 | lento | — | — | A2 | Slow | [link](https://youtube.com/shorts/sNsEi-UD19c) |
+| 2026-07-17 | 0 | caminar | — | — | A2 | To walk | [link](https://youtube.com/shorts/-hSv5-jIGhw) |
