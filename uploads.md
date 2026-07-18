@@ -192,3 +192,4 @@ by the pipeline after each successful upload.
 | 2026-07-18 | 2 | egoísta | — | — | A2 | Selfish person | [link](https://youtube.com/shorts/6hi5RriKhPM) |
 | 2026-07-18 | 3 | fácil | — | — | A2 | Easy to do | [link](https://youtube.com/shorts/DdwaOUpa6i4) |
 | 2026-07-18 | 0 | pijama | — | la | A2 | Sleeping clothes | [link](https://youtube.com/shorts/Z_Iyc3v6Hww) |
+| 2026-07-18 | 1 | tortilla | — | la | A2 | Mexican flatbread | [link](https://youtube.com/shorts/jA2E-1Q7IVw) |
