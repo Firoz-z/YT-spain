@@ -189,3 +189,4 @@ by the pipeline after each successful upload.
 | 2026-07-17 | 3 | lento | — | — | A2 | Slow | [link](https://youtube.com/shorts/sNsEi-UD19c) |
 | 2026-07-17 | 0 | caminar | — | — | A2 | To walk | [link](https://youtube.com/shorts/-hSv5-jIGhw) |
 | 2026-07-17 | 1 | maíz | — | el | A2 | Corn | [link](https://youtube.com/shorts/hHczCv3muxA) |
+| 2026-07-18 | 2 | egoísta | — | — | A2 | Selfish person | [link](https://youtube.com/shorts/6hi5RriKhPM) |
