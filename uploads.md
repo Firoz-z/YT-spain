@@ -193,3 +193,4 @@ by the pipeline after each successful upload.
 | 2026-07-18 | 3 | fácil | — | — | A2 | Easy to do | [link](https://youtube.com/shorts/DdwaOUpa6i4) |
 | 2026-07-18 | 0 | pijama | — | la | A2 | Sleeping clothes | [link](https://youtube.com/shorts/Z_Iyc3v6Hww) |
 | 2026-07-18 | 1 | tortilla | — | la | A2 | Mexican flatbread | [link](https://youtube.com/shorts/jA2E-1Q7IVw) |
+| 2026-07-19 | 2 | bufanda | — | la | A2 | Scarf | [link](https://youtube.com/shorts/d65MXHH12TQ) |
