@@ -195,3 +195,4 @@ by the pipeline after each successful upload.
 | 2026-07-18 | 1 | tortilla | — | la | A2 | Mexican flatbread | [link](https://youtube.com/shorts/jA2E-1Q7IVw) |
 | 2026-07-19 | 2 | bufanda | — | la | A2 | Scarf | [link](https://youtube.com/shorts/d65MXHH12TQ) |
 | 2026-07-19 | 3 | cenar | — | — | A2 | To have dinner | [link](https://youtube.com/shorts/NCjNxevay2c) |
+| 2026-07-19 | 0 | enojado | — | — | A2 | Angry or upset | [link](https://youtube.com/shorts/NmVb5iqaPdc) |
