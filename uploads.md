@@ -196,3 +196,4 @@ by the pipeline after each successful upload.
 | 2026-07-19 | 2 | bufanda | — | la | A2 | Scarf | [link](https://youtube.com/shorts/d65MXHH12TQ) |
 | 2026-07-19 | 3 | cenar | — | — | A2 | To have dinner | [link](https://youtube.com/shorts/NCjNxevay2c) |
 | 2026-07-19 | 0 | enojado | — | — | A2 | Angry or upset | [link](https://youtube.com/shorts/NmVb5iqaPdc) |
+| 2026-07-19 | 1 | nube | — | la | A2 | Cloud in the sky | [link](https://youtube.com/shorts/mhqhgcrT258) |
