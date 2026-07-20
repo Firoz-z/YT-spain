@@ -197,3 +197,4 @@ by the pipeline after each successful upload.
 | 2026-07-19 | 3 | cenar | — | — | A2 | To have dinner | [link](https://youtube.com/shorts/NCjNxevay2c) |
 | 2026-07-19 | 0 | enojado | — | — | A2 | Angry or upset | [link](https://youtube.com/shorts/NmVb5iqaPdc) |
 | 2026-07-19 | 1 | nube | — | la | A2 | Cloud in the sky | [link](https://youtube.com/shorts/mhqhgcrT258) |
+| 2026-07-20 | 2 | a veces | — | — | A2 | Sometimes | [link](https://youtube.com/shorts/9GUZZkMD0fU) |
