@@ -199,3 +199,4 @@ by the pipeline after each successful upload.
 | 2026-07-19 | 1 | nube | — | la | A2 | Cloud in the sky | [link](https://youtube.com/shorts/mhqhgcrT258) |
 | 2026-07-20 | 2 | a veces | — | — | A2 | Sometimes | [link](https://youtube.com/shorts/9GUZZkMD0fU) |
 | 2026-07-20 | 3 | cerca | — | — | A2 | Near or close by | [link](https://youtube.com/shorts/BPKsO0y7oXY) |
+| 2026-07-20 | 0 | pantalón | — | el | A2 | Pants or trousers | [link](https://youtube.com/shorts/8KVLD0gWusI) |
