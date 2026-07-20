@@ -200,3 +200,4 @@ by the pipeline after each successful upload.
 | 2026-07-20 | 2 | a veces | — | — | A2 | Sometimes | [link](https://youtube.com/shorts/9GUZZkMD0fU) |
 | 2026-07-20 | 3 | cerca | — | — | A2 | Near or close by | [link](https://youtube.com/shorts/BPKsO0y7oXY) |
 | 2026-07-20 | 0 | pantalón | — | el | A2 | Pants or trousers | [link](https://youtube.com/shorts/8KVLD0gWusI) |
+| 2026-07-20 | 1 | aprender | — | — | A2 | to learn | [link](https://youtube.com/shorts/2DqPitt9CWo) |
