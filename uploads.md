@@ -203,3 +203,4 @@ by the pipeline after each successful upload.
 | 2026-07-20 | 1 | aprender | — | — | A2 | to learn | [link](https://youtube.com/shorts/2DqPitt9CWo) |
 | 2026-07-21 | 2 | cebolla | — | la | A2 | Onion | [link](https://youtube.com/shorts/8OWFzhifUbs) |
 | 2026-07-21 | 3 | coche | — | el | A2 | Car or automobile | [link](https://youtube.com/shorts/-9ReXGOLryE) |
+| 2026-07-21 | 0 | pizarra | — | la | A2 | Blackboard | [link](https://youtube.com/shorts/giFtHH-_eq4) |
