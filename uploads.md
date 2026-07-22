@@ -207,3 +207,4 @@ by the pipeline after each successful upload.
 | 2026-07-21 | 1 | iglesia | — | la | A2 | Church building | [link](https://youtube.com/shorts/vCsSyRXtdOw) |
 | 2026-07-22 | 2 | difícil | — | — | A2 | Hard or challenging | [link](https://youtube.com/shorts/iZIMovNQZAs) |
 | 2026-07-22 | 3 | cuaderno | — | el | A2 | Notebook | [link](https://youtube.com/shorts/Z2efCw1Mwv0) |
+| 2026-07-22 | 0 | flor | — | la | A2 | A type of flower | [link](https://youtube.com/shorts/MWTr0JDzvUQ) |
