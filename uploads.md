@@ -211,3 +211,4 @@ by the pipeline after each successful upload.
 | 2026-07-22 | 1 | taco | — | el | A2 | Traditional Mexican food | [link](https://youtube.com/shorts/BNEfd77JiAc) |
 | 2026-07-23 | 2 | invierno | — | el | A2 | Winter season | [link](https://youtube.com/shorts/-3NoejcX3Tg) |
 | 2026-07-23 | 3 | camisa | — | la | A2 | A casual shirt | [link](https://youtube.com/shorts/kS6SQzWeB2c) |
+| 2026-07-23 | 0 | ayudar | — | — | A2 | To help someone | [link](https://youtube.com/shorts/bIuJrNWxI_o) |
