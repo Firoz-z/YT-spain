@@ -214,3 +214,4 @@ by the pipeline after each successful upload.
 | 2026-07-23 | 0 | ayudar | — | — | A2 | To help someone | [link](https://youtube.com/shorts/bIuJrNWxI_o) |
 | 2026-07-23 | 1 | sándwich | — | el | A2 | Food between two slices of bread | [link](https://youtube.com/shorts/MdiWwIPwtGs) |
 | 2026-07-24 | 2 | dinero | — | el | A2 | Money | [link](https://youtube.com/shorts/-HGCsm9scOg) |
+| 2026-07-24 | 3 | mochila | — | la | A2 | Backpack | [link](https://youtube.com/shorts/-fSfZEPvtko) |
