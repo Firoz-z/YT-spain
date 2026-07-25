@@ -220,3 +220,4 @@ by the pipeline after each successful upload.
 | 2026-07-25 | 2 | izquierda | — | la | A2 | Left side | [link](https://youtube.com/shorts/g3QHPACK3ik) |
 | 2026-07-25 | 3 | generoso | — | — | A2 | Very generous | [link](https://youtube.com/shorts/MrRc61d138o) |
 | 2026-07-25 | 0 | supermercado | — | el | A2 | Large store selling food and goods | [link](https://youtube.com/shorts/mkQKcRb4y7s) |
+| 2026-07-25 | 1 | hospital | — | el | A2 | Place for medical care | [link](https://youtube.com/shorts/arMmRIrZZ9c) |
