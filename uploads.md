@@ -217,3 +217,4 @@ by the pipeline after each successful upload.
 | 2026-07-24 | 3 | mochila | — | la | A2 | Backpack | [link](https://youtube.com/shorts/-fSfZEPvtko) |
 | 2026-07-24 | 0 | otoño | — | el | A2 | Autumn season | [link](https://youtube.com/shorts/q_eJ5D8f58k) |
 | 2026-07-24 | 1 | oscuro | — | el | A2 | Dark, not much light | [link](https://youtube.com/shorts/f0MDcO4Om_Q) |
+| 2026-07-25 | 2 | izquierda | — | la | A2 | Left side | [link](https://youtube.com/shorts/g3QHPACK3ik) |
