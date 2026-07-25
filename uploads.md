@@ -219,3 +219,4 @@ by the pipeline after each successful upload.
 | 2026-07-24 | 1 | oscuro | — | el | A2 | Dark, not much light | [link](https://youtube.com/shorts/f0MDcO4Om_Q) |
 | 2026-07-25 | 2 | izquierda | — | la | A2 | Left side | [link](https://youtube.com/shorts/g3QHPACK3ik) |
 | 2026-07-25 | 3 | generoso | — | — | A2 | Very generous | [link](https://youtube.com/shorts/MrRc61d138o) |
+| 2026-07-25 | 0 | supermercado | — | el | A2 | Large store selling food and goods | [link](https://youtube.com/shorts/mkQKcRb4y7s) |
