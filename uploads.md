@@ -222,3 +222,4 @@ by the pipeline after each successful upload.
 | 2026-07-25 | 0 | supermercado | — | el | A2 | Large store selling food and goods | [link](https://youtube.com/shorts/mkQKcRb4y7s) |
 | 2026-07-25 | 1 | hospital | — | el | A2 | Place for medical care | [link](https://youtube.com/shorts/arMmRIrZZ9c) |
 | 2026-07-26 | 2 | olvidar | — | — | A2 | To forget something | [link](https://youtube.com/shorts/KsicQiDluR8) |
+| 2026-07-26 | 3 | parque | — | el | A2 | Public outdoor recreation area | [link](https://youtube.com/shorts/xSpZMPW7ETM) |
