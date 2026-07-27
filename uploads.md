@@ -226,3 +226,4 @@ by the pipeline after each successful upload.
 | 2026-07-26 | 0 | lápiz | — | el | A2 | Pencil | [link](https://youtube.com/shorts/LhRAc7TXS6Y) |
 | 2026-07-26 | 1 | mango | — | el | A2 | Tropical yellow fruit | [link](https://youtube.com/shorts/iglAKUJVIVg) |
 | 2026-07-27 | 2 | lluvia | — | la | A2 | Rain | [link](https://youtube.com/shorts/lVG9BpuRQkw) |
+| 2026-07-27 | 3 | recto | — | — | A2 | Straight or right side | [link](https://youtube.com/shorts/hwve_ew8A1c) |
