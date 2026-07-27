@@ -225,3 +225,4 @@ by the pipeline after each successful upload.
 | 2026-07-26 | 3 | parque | — | el | A2 | Public outdoor recreation area | [link](https://youtube.com/shorts/xSpZMPW7ETM) |
 | 2026-07-26 | 0 | lápiz | — | el | A2 | Pencil | [link](https://youtube.com/shorts/LhRAc7TXS6Y) |
 | 2026-07-26 | 1 | mango | — | el | A2 | Tropical yellow fruit | [link](https://youtube.com/shorts/iglAKUJVIVg) |
+| 2026-07-27 | 2 | lluvia | — | la | A2 | Rain | [link](https://youtube.com/shorts/lVG9BpuRQkw) |
