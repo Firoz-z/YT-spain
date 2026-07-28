@@ -230,3 +230,4 @@ by the pipeline after each successful upload.
 | 2026-07-27 | 0 | verano | — | el | A2 | Summer season | [link](https://youtube.com/shorts/37bhRbPjOR4) |
 | 2026-07-27 | 1 | limpio | — | — | A2 | Clean | [link](https://youtube.com/shorts/k6CHm3SgIfQ) |
 | 2026-07-28 | 2 | gasolinera | — | la | A2 | Gas station | [link](https://youtube.com/shorts/8whvbHJ0pYQ) |
+| 2026-07-28 | 3 | estación | — | la | A2 | Train or bus station | [link](https://youtube.com/shorts/nC92qX2H_ok) |
