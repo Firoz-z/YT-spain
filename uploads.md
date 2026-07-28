@@ -231,3 +231,4 @@ by the pipeline after each successful upload.
 | 2026-07-27 | 1 | limpio | — | — | A2 | Clean | [link](https://youtube.com/shorts/k6CHm3SgIfQ) |
 | 2026-07-28 | 2 | gasolinera | — | la | A2 | Gas station | [link](https://youtube.com/shorts/8whvbHJ0pYQ) |
 | 2026-07-28 | 3 | estación | — | la | A2 | Train or bus station | [link](https://youtube.com/shorts/nC92qX2H_ok) |
+| 2026-07-28 | 0 | mar | — | el | A2 | Body of saltwater | [link](https://youtube.com/shorts/cGrpuM5oB3c) |
