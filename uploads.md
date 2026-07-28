@@ -229,3 +229,4 @@ by the pipeline after each successful upload.
 | 2026-07-27 | 3 | recto | — | — | A2 | Straight or right side | [link](https://youtube.com/shorts/hwve_ew8A1c) |
 | 2026-07-27 | 0 | verano | — | el | A2 | Summer season | [link](https://youtube.com/shorts/37bhRbPjOR4) |
 | 2026-07-27 | 1 | limpio | — | — | A2 | Clean | [link](https://youtube.com/shorts/k6CHm3SgIfQ) |
+| 2026-07-28 | 2 | gasolinera | — | la | A2 | Gas station | [link](https://youtube.com/shorts/8whvbHJ0pYQ) |
