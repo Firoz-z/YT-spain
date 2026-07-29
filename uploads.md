@@ -235,3 +235,4 @@ by the pipeline after each successful upload.
 | 2026-07-28 | 1 | ciudad | — | la | A2 | City or town | [link](https://youtube.com/shorts/3RYSyNqhriI) |
 | 2026-07-29 | 2 | oficina | — | la | A2 | Office or workplace | [link](https://youtube.com/shorts/abetjvbuO74) |
 | 2026-07-29 | 3 | arroz integral | — | el | A2 | Brown rice | [link](https://youtube.com/shorts/KKlin_GJvaI) |
+| 2026-07-29 | 0 | aburrido | — | — | A2 | Boring | [link](https://youtube.com/shorts/PinzWhQ3Uts) |
