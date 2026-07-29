@@ -233,3 +233,4 @@ by the pipeline after each successful upload.
 | 2026-07-28 | 3 | estación | — | la | A2 | Train or bus station | [link](https://youtube.com/shorts/nC92qX2H_ok) |
 | 2026-07-28 | 0 | mar | — | el | A2 | Body of saltwater | [link](https://youtube.com/shorts/cGrpuM5oB3c) |
 | 2026-07-28 | 1 | ciudad | — | la | A2 | City or town | [link](https://youtube.com/shorts/3RYSyNqhriI) |
+| 2026-07-29 | 2 | oficina | — | la | A2 | Office or workplace | [link](https://youtube.com/shorts/abetjvbuO74) |
