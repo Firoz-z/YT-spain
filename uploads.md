@@ -240,3 +240,4 @@ by the pipeline after each successful upload.
 | 2026-07-30 | 2 | empresa | — | la | A2 | Business company | [link](https://youtube.com/shorts/h4KiSUoSVi0) |
 | 2026-07-30 | 3 | levantarse | — | — | A2 | Get up | [link](https://youtube.com/shorts/kzcSR20k-uk) |
 | 2026-07-30 | 0 | siempre | — | — | A2 | Always | [link](https://youtube.com/shorts/yTlRV_dLhZ4) |
+| 2026-07-30 | 1 | queso fresco | — | el | A2 | Fresh cheese | [link](https://youtube.com/shorts/91wMYJ3iDH0) |
