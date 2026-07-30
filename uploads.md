@@ -237,3 +237,4 @@ by the pipeline after each successful upload.
 | 2026-07-29 | 3 | arroz integral | — | el | A2 | Brown rice | [link](https://youtube.com/shorts/KKlin_GJvaI) |
 | 2026-07-29 | 0 | aburrido | — | — | A2 | Boring | [link](https://youtube.com/shorts/PinzWhQ3Uts) |
 | 2026-07-29 | 1 | frijol | — | el | A2 | Bean | [link](https://youtube.com/shorts/yP0eUVSuWxc) |
+| 2026-07-30 | 2 | empresa | — | la | A2 | Business company | [link](https://youtube.com/shorts/h4KiSUoSVi0) |
