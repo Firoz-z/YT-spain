@@ -241,3 +241,4 @@ by the pipeline after each successful upload.
 | 2026-07-30 | 3 | levantarse | — | — | A2 | Get up | [link](https://youtube.com/shorts/kzcSR20k-uk) |
 | 2026-07-30 | 0 | siempre | — | — | A2 | Always | [link](https://youtube.com/shorts/yTlRV_dLhZ4) |
 | 2026-07-30 | 1 | queso fresco | — | el | A2 | Fresh cheese | [link](https://youtube.com/shorts/91wMYJ3iDH0) |
+| 2026-07-31 | 2 | país | — | el | A2 | Country or nation | [link](https://youtube.com/shorts/lW7PDexedW4) |
