@@ -244,3 +244,4 @@ by the pipeline after each successful upload.
 | 2026-07-31 | 2 | país | — | el | A2 | Country or nation | [link](https://youtube.com/shorts/lW7PDexedW4) |
 | 2026-07-31 | 3 | sentarse | — | — | A2 | To sit down | [link](https://youtube.com/shorts/xiczTCfU2Yo) |
 | 2026-07-31 | 0 | mermelada | — | la | A2 | Fruit jam or jelly | [link](https://youtube.com/shorts/yKtiMwzOqUA) |
+| 2026-07-31 | 1 | joven | — | el | A2 | Young person | [link](https://youtube.com/shorts/q57Z_aipor0) |
