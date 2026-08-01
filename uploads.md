@@ -245,3 +245,4 @@ by the pipeline after each successful upload.
 | 2026-07-31 | 3 | sentarse | — | — | A2 | To sit down | [link](https://youtube.com/shorts/xiczTCfU2Yo) |
 | 2026-07-31 | 0 | mermelada | — | la | A2 | Fruit jam or jelly | [link](https://youtube.com/shorts/yKtiMwzOqUA) |
 | 2026-07-31 | 1 | joven | — | el | A2 | Young person | [link](https://youtube.com/shorts/q57Z_aipor0) |
+| 2026-08-01 | 2 | traje | — | el | A2 | Suit of clothes | [link](https://youtube.com/shorts/Pzi2bNMf0Bg) |
