@@ -247,3 +247,4 @@ by the pipeline after each successful upload.
 | 2026-07-31 | 1 | joven | — | el | A2 | Young person | [link](https://youtube.com/shorts/q57Z_aipor0) |
 | 2026-08-01 | 2 | traje | — | el | A2 | Suit of clothes | [link](https://youtube.com/shorts/Pzi2bNMf0Bg) |
 | 2026-08-01 | 3 | abajo | — | — | A2 | Down or below | [link](https://youtube.com/shorts/UVZ45UbmQHU) |
+| 2026-08-01 | 0 | limón | — | el | A2 | Lemon fruit | [link](https://youtube.com/shorts/jWHaIin0luY) |
