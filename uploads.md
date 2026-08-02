@@ -251,3 +251,4 @@ by the pipeline after each successful upload.
 | 2026-08-01 | 1 | rápido | — | — | A2 | Fast or quick | [link](https://youtube.com/shorts/NVRMIDato8Q) |
 | 2026-08-02 | 2 | ducharse | — | — | A2 | To take a shower | [link](https://youtube.com/shorts/xWBtCetZpeA) |
 | 2026-08-02 | 3 | sucio | — | — | A2 | Dirty | [link](https://youtube.com/shorts/xTmMFAPeu6I) |
+| 2026-08-02 | 0 | recordar | — | — | A2 | To remember something | [link](https://youtube.com/shorts/my7w9su5t88) |
