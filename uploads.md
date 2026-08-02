@@ -249,3 +249,4 @@ by the pipeline after each successful upload.
 | 2026-08-01 | 3 | abajo | — | — | A2 | Down or below | [link](https://youtube.com/shorts/UVZ45UbmQHU) |
 | 2026-08-01 | 0 | limón | — | el | A2 | Lemon fruit | [link](https://youtube.com/shorts/jWHaIin0luY) |
 | 2026-08-01 | 1 | rápido | — | — | A2 | Fast or quick | [link](https://youtube.com/shorts/NVRMIDato8Q) |
+| 2026-08-02 | 2 | ducharse | — | — | A2 | To take a shower | [link](https://youtube.com/shorts/xWBtCetZpeA) |
