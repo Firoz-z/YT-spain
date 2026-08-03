@@ -253,3 +253,4 @@ by the pipeline after each successful upload.
 | 2026-08-02 | 3 | sucio | — | — | A2 | Dirty | [link](https://youtube.com/shorts/xTmMFAPeu6I) |
 | 2026-08-02 | 0 | recordar | — | — | A2 | To remember something | [link](https://youtube.com/shorts/my7w9su5t88) |
 | 2026-08-02 | 1 | yogur | — | el | A2 | Mexican yogurt | [link](https://youtube.com/shorts/7blpUCHdENg) |
+| 2026-08-03 | 2 | antiguo | — | el | A2 | Old | [link](https://youtube.com/shorts/3BgpcZypP7M) |
