@@ -255,3 +255,4 @@ by the pipeline after each successful upload.
 | 2026-08-02 | 1 | yogur | — | el | A2 | Mexican yogurt | [link](https://youtube.com/shorts/7blpUCHdENg) |
 | 2026-08-03 | 2 | antiguo | — | el | A2 | Old | [link](https://youtube.com/shorts/3BgpcZypP7M) |
 | 2026-08-03 | 3 | lección | — | la | A2 | Lesson or class | [link](https://youtube.com/shorts/DMQV8uQ4qFQ) |
+| 2026-08-03 | 0 | vestido | — | el | A2 | Dress | [link](https://youtube.com/shorts/tzZ7zaGJO2E) |
