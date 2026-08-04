@@ -259,3 +259,4 @@ by the pipeline after each successful upload.
 | 2026-08-03 | 1 | biblioteca | — | la | A2 | Library | [link](https://youtube.com/shorts/uMtS-4WS8jU) |
 | 2026-08-04 | 3 | estudiante | — | el | A2 | Student | [link](https://youtube.com/shorts/9lWEFkevqe0) |
 | 2026-08-04 | 3 | falda | — | la | A2 | Skirt | [link](https://youtube.com/shorts/v31ucEMOed0) |
+| 2026-08-04 | 0 | zapato | — | el | A2 | Shoe | [link](https://youtube.com/shorts/XW9mJsUrAgc) |
