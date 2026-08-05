@@ -261,3 +261,4 @@ by the pipeline after each successful upload.
 | 2026-08-04 | 3 | falda | — | la | A2 | Skirt | [link](https://youtube.com/shorts/v31ucEMOed0) |
 | 2026-08-04 | 0 | zapato | — | el | A2 | Shoe | [link](https://youtube.com/shorts/XW9mJsUrAgc) |
 | 2026-08-04 | 1 | comprar | — | — | A2 | To buy something | [link](https://youtube.com/shorts/W9-IiIKOGoY) |
+| 2026-08-05 | 2 | bolsa | — | la | A2 | Bag or purse | [link](https://youtube.com/shorts/qGauBhteBL0) |
