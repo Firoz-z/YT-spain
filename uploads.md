@@ -264,3 +264,4 @@ by the pipeline after each successful upload.
 | 2026-08-05 | 2 | bolsa | — | la | A2 | Bag or purse | [link](https://youtube.com/shorts/qGauBhteBL0) |
 | 2026-08-05 | 3 | almuerzo | — | el | A2 | Lunch meal | [link](https://youtube.com/shorts/sxuvjjsxdjk) |
 | 2026-08-05 | 0 | trabajo | — | el | A2 | Job or work | [link](https://youtube.com/shorts/niEWxfj4PRk) |
+| 2026-08-05 | 1 | sombrero | — | el | A2 | Traditional Mexican hat | [link](https://youtube.com/shorts/TvVDmCuWNPQ) |
