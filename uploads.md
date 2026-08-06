@@ -266,3 +266,4 @@ by the pipeline after each successful upload.
 | 2026-08-05 | 0 | trabajo | — | el | A2 | Job or work | [link](https://youtube.com/shorts/niEWxfj4PRk) |
 | 2026-08-05 | 1 | sombrero | — | el | A2 | Traditional Mexican hat | [link](https://youtube.com/shorts/TvVDmCuWNPQ) |
 | 2026-08-06 | 2 | nieve | — | la | A2 | Snow | [link](https://youtube.com/shorts/CJpdBn4AjFg) |
+| 2026-08-06 | 3 | luna | — | la | A2 | Moon | [link](https://youtube.com/shorts/G-P7xgQK5lk) |
