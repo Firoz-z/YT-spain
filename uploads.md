@@ -269,3 +269,4 @@ by the pipeline after each successful upload.
 | 2026-08-06 | 3 | luna | — | la | A2 | Moon | [link](https://youtube.com/shorts/G-P7xgQK5lk) |
 | 2026-08-07 | 2 | hotel | — | el | A2 | Place to stay temporarily | [link](https://youtube.com/shorts/6NGl_KgEHMg) |
 | 2026-08-07 | 3 | regla | — | la | A2 | Rule or guideline | [link](https://youtube.com/shorts/tIVcjisfRos) |
+| 2026-08-07 | 3 | temprano | — | — | A2 | Early | [link](https://youtube.com/shorts/wLG3qTKkkM8) |
