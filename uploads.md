@@ -267,3 +267,4 @@ by the pipeline after each successful upload.
 | 2026-08-05 | 1 | sombrero | — | el | A2 | Traditional Mexican hat | [link](https://youtube.com/shorts/TvVDmCuWNPQ) |
 | 2026-08-06 | 2 | nieve | — | la | A2 | Snow | [link](https://youtube.com/shorts/CJpdBn4AjFg) |
 | 2026-08-06 | 3 | luna | — | la | A2 | Moon | [link](https://youtube.com/shorts/G-P7xgQK5lk) |
+| 2026-08-07 | 2 | hotel | — | el | A2 | Place to stay temporarily | [link](https://youtube.com/shorts/6NGl_KgEHMg) |
