@@ -272,3 +272,4 @@ by the pipeline after each successful upload.
 | 2026-08-07 | 3 | temprano | — | — | A2 | Early | [link](https://youtube.com/shorts/wLG3qTKkkM8) |
 | 2026-08-07 | 0 | terminar | — | — | A2 | To finish something | [link](https://youtube.com/shorts/douz8kwuM7o) |
 | 2026-08-07 | 1 | cielo | — | el | A2 | The sky | [link](https://youtube.com/shorts/o9Mii7d53pc) |
+| 2026-08-07 | 2 | estrella | — | la | A2 | Star in sky | [link](https://youtube.com/shorts/UdPLVywfgs8) |
