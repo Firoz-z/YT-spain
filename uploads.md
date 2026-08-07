@@ -270,3 +270,4 @@ by the pipeline after each successful upload.
 | 2026-08-07 | 2 | hotel | — | el | A2 | Place to stay temporarily | [link](https://youtube.com/shorts/6NGl_KgEHMg) |
 | 2026-08-07 | 3 | regla | — | la | A2 | Rule or guideline | [link](https://youtube.com/shorts/tIVcjisfRos) |
 | 2026-08-07 | 3 | temprano | — | — | A2 | Early | [link](https://youtube.com/shorts/wLG3qTKkkM8) |
+| 2026-08-07 | 0 | terminar | — | — | A2 | To finish something | [link](https://youtube.com/shorts/douz8kwuM7o) |
