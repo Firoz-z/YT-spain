@@ -273,3 +273,4 @@ by the pipeline after each successful upload.
 | 2026-08-07 | 0 | terminar | — | — | A2 | To finish something | [link](https://youtube.com/shorts/douz8kwuM7o) |
 | 2026-08-07 | 1 | cielo | — | el | A2 | The sky | [link](https://youtube.com/shorts/o9Mii7d53pc) |
 | 2026-08-07 | 2 | estrella | — | la | A2 | Star in sky | [link](https://youtube.com/shorts/UdPLVywfgs8) |
+| 2026-08-08 | 3 | tarea | — | la | A2 | Task or homework | [link](https://youtube.com/shorts/rllXdLaOxbk) |
