@@ -278,3 +278,4 @@ by the pipeline after each successful upload.
 | 2026-08-08 | 1 | centro | — | el | A2 | City or town center | [link](https://youtube.com/shorts/TJkg3nPnxP8) |
 | 2026-08-09 | 2 | calcetín | — | el | A2 | Sock | [link](https://youtube.com/shorts/euWn5A4Cv-E) |
 | 2026-08-09 | 3 | hoja | — | la | A2 | Leaf or page | [link](https://youtube.com/shorts/93gO0sxuqPo) |
+| 2026-08-09 | 0 | escritorio | — | el | A2 | Desk or office | [link](https://youtube.com/shorts/lUG13a7hELg) |
