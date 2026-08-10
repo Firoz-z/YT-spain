@@ -282,3 +282,4 @@ by the pipeline after each successful upload.
 | 2026-08-09 | 1 | empezar | — | — | A2 | to start something | [link](https://youtube.com/shorts/ssGm2hhTcd8) |
 | 2026-08-09 | 2 | clase | — | la | A2 | Class or lesson | [link](https://youtube.com/shorts/Y-98vP6I9vI) |
 | 2026-08-10 | 3 | nunca | — | — | A2 | Never | [link](https://youtube.com/shorts/OMY0eQBh_FE) |
+| 2026-08-10 | 0 | diccionario | — | el | A2 | Dictionary book | [link](https://youtube.com/shorts/Ng29rhBtEro) |
