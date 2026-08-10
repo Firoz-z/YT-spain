@@ -283,3 +283,4 @@ by the pipeline after each successful upload.
 | 2026-08-09 | 2 | clase | — | la | A2 | Class or lesson | [link](https://youtube.com/shorts/Y-98vP6I9vI) |
 | 2026-08-10 | 3 | nunca | — | — | A2 | Never | [link](https://youtube.com/shorts/OMY0eQBh_FE) |
 | 2026-08-10 | 0 | diccionario | — | el | A2 | Dictionary book | [link](https://youtube.com/shorts/Ng29rhBtEro) |
+| 2026-08-10 | 1 | gorra | — | la | A2 | Baseball cap | [link](https://youtube.com/shorts/toLrsq3WWQQ) |
