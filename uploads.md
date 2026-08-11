@@ -286,3 +286,4 @@ by the pipeline after each successful upload.
 | 2026-08-10 | 1 | gorra | — | la | A2 | Baseball cap | [link](https://youtube.com/shorts/toLrsq3WWQQ) |
 | 2026-08-11 | 2 | bicicleta | — | la | A2 | A vehicle with two wheels | [link](https://youtube.com/shorts/TXHWr16sEPQ) |
 | 2026-08-11 | 3 | abrazar | — | — | A2 | To hug someone | [link](https://youtube.com/shorts/xuFWN_gtlXU) |
+| 2026-08-11 | 0 | papa | — | la | A2 | Potato | [link](https://youtube.com/shorts/-0aQrKBIQvQ) |
