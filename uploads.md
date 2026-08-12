@@ -290,3 +290,4 @@ by the pipeline after each successful upload.
 | 2026-08-11 | 1 | borrador | — | el | A2 | Draft or rough copy | [link](https://youtube.com/shorts/9V8v5SA5Wak) |
 | 2026-08-12 | 2 | dentro | — | — | A2 | Inside | [link](https://youtube.com/shorts/f_V0o1piCV4) |
 | 2026-08-12 | 3 | lejos | — | — | A2 | Far away | [link](https://youtube.com/shorts/hbBATIyk8bQ) |
+| 2026-08-12 | 0 | escuela | — | la | A2 | School | [link](https://youtube.com/shorts/nnEx4IzihlQ) |
