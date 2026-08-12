@@ -291,3 +291,4 @@ by the pipeline after each successful upload.
 | 2026-08-12 | 2 | dentro | — | — | A2 | Inside | [link](https://youtube.com/shorts/f_V0o1piCV4) |
 | 2026-08-12 | 3 | lejos | — | — | A2 | Far away | [link](https://youtube.com/shorts/hbBATIyk8bQ) |
 | 2026-08-12 | 0 | escuela | — | la | A2 | School | [link](https://youtube.com/shorts/nnEx4IzihlQ) |
+| 2026-08-12 | 1 | bailar | — | — | A2 | To dance | [link](https://youtube.com/shorts/Ba7W0MJy-rY) |
