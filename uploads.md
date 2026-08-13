@@ -296,3 +296,4 @@ by the pipeline after each successful upload.
 | 2026-08-13 | 3 | desayunar | — | — | A2 | To have breakfast | [link](https://youtube.com/shorts/IUOZPDK71r0) |
 | 2026-08-13 | 0 | sorprendido | — | — | A2 | Surprised | [link](https://youtube.com/shorts/UDxIki-sHyk) |
 | 2026-08-13 | 1 | pasta | — | la | A2 | Dough made from flour and water | [link](https://youtube.com/shorts/XuirGk2jd5I) |
+| 2026-08-13 | 2 | bosque | — | el | A2 | Wood or forest area | [link](https://youtube.com/shorts/i2iHlZ4G1DQ) |
