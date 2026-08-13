@@ -294,3 +294,4 @@ by the pipeline after each successful upload.
 | 2026-08-12 | 1 | bailar | — | — | A2 | To dance | [link](https://youtube.com/shorts/Ba7W0MJy-rY) |
 | 2026-08-13 | 2 | débil | — | — | A2 | Weak or fragile | [link](https://youtube.com/shorts/AeGcfijGYYs) |
 | 2026-08-13 | 3 | desayunar | — | — | A2 | To have breakfast | [link](https://youtube.com/shorts/IUOZPDK71r0) |
+| 2026-08-13 | 0 | sorprendido | — | — | A2 | Surprised | [link](https://youtube.com/shorts/UDxIki-sHyk) |
