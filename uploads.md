@@ -292,3 +292,4 @@ by the pipeline after each successful upload.
 | 2026-08-12 | 3 | lejos | — | — | A2 | Far away | [link](https://youtube.com/shorts/hbBATIyk8bQ) |
 | 2026-08-12 | 0 | escuela | — | la | A2 | School | [link](https://youtube.com/shorts/nnEx4IzihlQ) |
 | 2026-08-12 | 1 | bailar | — | — | A2 | To dance | [link](https://youtube.com/shorts/Ba7W0MJy-rY) |
+| 2026-08-13 | 2 | débil | — | — | A2 | Weak or fragile | [link](https://youtube.com/shorts/AeGcfijGYYs) |
