@@ -299,3 +299,4 @@ by the pipeline after each successful upload.
 | 2026-08-13 | 2 | bosque | — | el | A2 | Wood or forest area | [link](https://youtube.com/shorts/i2iHlZ4G1DQ) |
 | 2026-08-14 | 3 | tienda | — | la | A2 | Store or shop | [link](https://youtube.com/shorts/ShSACz4pfG8) |
 | 2026-08-14 | 0 | trabajar | — | — | A2 | To work | [link](https://youtube.com/shorts/YcjddvWjsgY) |
+| 2026-08-14 | 1 | saltar | — | — | A2 | To jump | [link](https://youtube.com/shorts/lSwWvxz_AWs) |
