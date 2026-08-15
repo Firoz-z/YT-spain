@@ -303,3 +303,4 @@ by the pipeline after each successful upload.
 | 2026-08-15 | 2 | isla | — | la | A2 | Island | [link](https://youtube.com/shorts/TWcBGVMgKps) |
 | 2026-08-15 | 3 | camino | — | el | A2 | Road or path | [link](https://youtube.com/shorts/cvyxCRCtxVM) |
 | 2026-08-15 | 0 | metro | — | el | A2 | City subway system | [link](https://youtube.com/shorts/RTi069_Tb9o) |
+| 2026-08-15 | 1 | arena | — | la | A2 | Sand or sandy area | [link](https://youtube.com/shorts/hssjNq-1J-E) |
