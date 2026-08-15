@@ -301,3 +301,4 @@ by the pipeline after each successful upload.
 | 2026-08-14 | 0 | trabajar | — | — | A2 | To work | [link](https://youtube.com/shorts/YcjddvWjsgY) |
 | 2026-08-14 | 1 | saltar | — | — | A2 | To jump | [link](https://youtube.com/shorts/lSwWvxz_AWs) |
 | 2026-08-15 | 2 | isla | — | la | A2 | Island | [link](https://youtube.com/shorts/TWcBGVMgKps) |
+| 2026-08-15 | 3 | camino | — | el | A2 | Road or path | [link](https://youtube.com/shorts/cvyxCRCtxVM) |
