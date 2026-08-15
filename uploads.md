@@ -300,3 +300,4 @@ by the pipeline after each successful upload.
 | 2026-08-14 | 3 | tienda | — | la | A2 | Store or shop | [link](https://youtube.com/shorts/ShSACz4pfG8) |
 | 2026-08-14 | 0 | trabajar | — | — | A2 | To work | [link](https://youtube.com/shorts/YcjddvWjsgY) |
 | 2026-08-14 | 1 | saltar | — | — | A2 | To jump | [link](https://youtube.com/shorts/lSwWvxz_AWs) |
+| 2026-08-15 | 2 | isla | — | la | A2 | Island | [link](https://youtube.com/shorts/TWcBGVMgKps) |
