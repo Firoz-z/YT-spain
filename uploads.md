@@ -306,3 +306,4 @@ by the pipeline after each successful upload.
 | 2026-08-15 | 1 | arena | — | la | A2 | Sand or sandy area | [link](https://youtube.com/shorts/hssjNq-1J-E) |
 | 2026-08-16 | 2 | cinturón | — | el | A2 | Belt for pants or waist | [link](https://youtube.com/shorts/_YioNc0QJzA) |
 | 2026-08-16 | 3 | ruidoso | — | — | A2 | Loud, noisy | [link](https://youtube.com/shorts/oceAd0YZXbM) |
+| 2026-08-16 | 0 | nervioso | — | — | A2 | Anxious or nervous person | [link](https://youtube.com/shorts/7IFoZMJ7Hec) |
