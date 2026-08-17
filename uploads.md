@@ -309,3 +309,4 @@ by the pipeline after each successful upload.
 | 2026-08-16 | 0 | nervioso | — | — | A2 | Anxious or nervous person | [link](https://youtube.com/shorts/7IFoZMJ7Hec) |
 | 2026-08-16 | 1 | maestro | — | el | A2 | Teacher or master | [link](https://youtube.com/shorts/Xcn7pF4q8ro) |
 | 2026-08-16 | 2 | amable | — | — | A2 | Kind and friendly person | [link](https://youtube.com/shorts/wNTKp_Gb_PI) |
+| 2026-08-17 | 3 | besar | — | — | A2 | To kiss | [link](https://youtube.com/shorts/QVRKSfVtdVU) |
